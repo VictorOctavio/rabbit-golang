@@ -54,7 +54,7 @@ func main() {
 			publishToRabbit(fmt.Sprintf("Log entry %d", i), "log")
 			processDuration := time.Since(process)
 			recordPerformance("RabbitMQ", "Process", processDuration, true)
-			time.Sleep(10 * time.Millisecond)
+			time.Sleep(50 * time.Millisecond)
 		}
 	case "directo":
 		fmt.Println("Ejecutando inserciones directas en PostgreSQL con simulación de tareas adicionales...")
@@ -67,16 +67,32 @@ func main() {
 
 // Inicializa una conexión persistente y un canal a RabbitMQ
 func initRabbitMQConnection() {
-	var err error
-	rabbitConn, err = amqp.Dial(rabbitMQURL)
-	if err != nil {
-		log.Fatalf("No se pudo conectar a RabbitMQ: %v", err)
-	}
+    var err error
+    rabbitConn, err = amqp.Dial(rabbitMQURL)
+    if err != nil {
+        log.Fatalf("No se pudo conectar a RabbitMQ: %v", err)
+    }
 
-	rabbitChannel, err = rabbitConn.Channel()
-	if err != nil {
-		log.Fatalf("No se pudo abrir el canal: %v", err)
-	}
+    rabbitChannel, err = rabbitConn.Channel()
+    if err != nil {
+        log.Fatalf("No se pudo abrir el canal: %v", err)
+    }
+
+    // Declarar colas al inicio
+    _, err = rabbitChannel.QueueDeclare("insert_queue", true, false, false, false, nil)
+    if err != nil {
+        log.Fatalf("No se pudo declarar la cola insert_queue: %v", err)
+    }
+
+    _, err = rabbitChannel.QueueDeclare("email_queue", true, false, false, false, nil)
+    if err != nil {
+        log.Fatalf("No se pudo declarar la cola email_queue: %v", err)
+    }
+
+    _, err = rabbitChannel.QueueDeclare("log_queue", true, false, false, false, nil)
+    if err != nil {
+        log.Fatalf("No se pudo declarar la cola log_queue: %v", err)
+    }
 }
 
 // Cierra la conexión y el canal de RabbitMQ
@@ -127,35 +143,23 @@ func recordPerformance(method string, task string, duration time.Duration, succe
 
 // Publica un mensaje en RabbitMQ usando la conexión y el canal persistentes
 func publishToRabbit(message string, taskType string) {
-	q, err := rabbitChannel.QueueDeclare(
-		taskType+"_queue", // nombre de la cola
-		true,               // duradera
-		false,              // autodelete
-		false,              // exclusiva
-		false,              // no wait
-		nil,                // argumentos adicionales
-	)
-	if err != nil {
-		log.Fatalf("No se pudo declarar la cola: %v", err)
-	}
-
-	err = rabbitChannel.Publish(
-		"",     // exchange
-		q.Name, // routing key
-		false,  // mandatory
-		false,  // immediate
-		amqp.Publishing{
-			ContentType: "text/plain",
-			Body:        []byte(message),
+    err := rabbitChannel.Publish(
+        "",     // exchange
+        taskType+"_queue", // routing key
+        false,  // mandatory
+        false,  // immediate
+        amqp.Publishing{
+            ContentType: "text/plain",
+            Body:        []byte(message),
+			// DeliveryMode: amqp.Transient, // No persistente
 		},
-	)
-	if err != nil {
-		log.Fatalf("Error al publicar en RabbitMQ: %v", err)
-	}
+    )
+    if err != nil {
+        log.Fatalf("Error al publicar en RabbitMQ: %v", err)
+    }
 
-	fmt.Printf("Publicado en RabbitMQ: %s (Tarea: %s)\n", message, taskType)
+    fmt.Printf("Publicado en RabbitMQ: %s (Tarea: %s)\n", message, taskType)
 }
-
 
 func consumeFromRabbitAndInsert() {
 	conn, err := amqp.Dial(rabbitMQURL)
@@ -306,7 +310,7 @@ func insertDirectToPostgres() {
 		fmt.Printf("Log creado: %s (Tiempo: %v ms)\n", message)
 		processDuration := time.Since(process);
 		recordPerformance("Directo", "Process", processDuration, true)
-		time.Sleep(10 * time.Millisecond) // simulador de peticiones
+		time.Sleep(50 * time.Millisecond) // simulador de peticiones
 	}
 
 	duration := time.Since(start)
