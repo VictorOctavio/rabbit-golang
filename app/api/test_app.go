@@ -41,10 +41,13 @@ func main() {
 		go consumeFromRabbitAndSendEmail()
 		go consumeFromRabbitAndCreateLog()
 		for i := 0; i < 1000; i++ {
+			process := time.Now()
 			publishToRabbit(fmt.Sprintf("Mensaje %d", i), "insert")
 			publishToRabbit(fmt.Sprintf("Email para usuario %d", i), "email")
 			publishToRabbit(fmt.Sprintf("Log entry %d", i), "log")
-			time.Sleep(50 * time.Millisecond)
+			processDuration := time.Since(process);
+			recordPerformance("RabbitMQ", "Process", processDuration, true)
+			time.Sleep(10 * time.Millisecond) // simulador de peticiones
 		}
 	case "directo":
 		fmt.Println("Ejecutando inserciones directas en PostgreSQL con simulación de tareas adicionales...")
@@ -242,6 +245,7 @@ func insertDirectToPostgres() {
 
 	for i := 0; i < 1000; i++ { 
 		// Inserción directa en PostgreSQL
+		process := time.Now()
 		message := fmt.Sprintf("Mensaje directo %d", i)
 		start := time.Now()
 		_, err := connPg.Exec(context.Background(), "INSERT INTO messages (content) VALUES ($1)", message)
@@ -256,17 +260,20 @@ func insertDirectToPostgres() {
 
 		// Simulación de envío de email
 		start = time.Now()
-		time.Sleep(10 * time.Millisecond) // Incrementamos la duración de la simulación
+		time.Sleep(time.Duration(rand.Intn(100)) * time.Millisecond) // simulacion tiempo random
 		duration = time.Since(start)
 		recordPerformance("Directo", "Email", duration, true)
 		fmt.Printf("Email enviado: %s (Tiempo: %v ms)\n", message)
 
 		// Simulación de creación de log
 		start = time.Now()
-		time.Sleep(10 * time.Millisecond) // Incrementamos la duración de la simulación
+		time.Sleep(time.Duration(rand.Intn(50)) * time.Millisecond) // simulacion tiempo random
 		duration = time.Since(start)
 		recordPerformance("Directo", "Log", duration, true)
 		fmt.Printf("Log creado: %s (Tiempo: %v ms)\n", message)
+		processDuration := time.Since(process);
+		recordPerformance("Directo", "Process", processDuration, true)
+		time.Sleep(10 * time.Millisecond) // simulador de peticiones
 	}
 
 	duration := time.Since(start)
