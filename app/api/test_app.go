@@ -52,6 +52,7 @@ func main() {
 			publishToRabbit(fmt.Sprintf("Mensaje %d", i), "insert")
 			publishToRabbit(fmt.Sprintf("Email para usuario %d", i), "email")
 			publishToRabbit(fmt.Sprintf("Log entry %d", i), "log")
+			time.Sleep(time.Duration(rand.Intn(10)) * time.Millisecond)
 			processDuration := time.Since(process)
 			recordPerformance("RabbitMQ", "Process", processDuration, true)
 			time.Sleep(50 * time.Millisecond)
