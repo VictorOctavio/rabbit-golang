@@ -232,7 +232,7 @@ func consumeFromRabbitAndSendEmail() {
 
 	for msg := range msgs {
 		start := time.Now()
-		time.Sleep(time.Duration(rand.Intn(100)) * time.Millisecond) // Simulación de envío de email
+		time.Sleep(time.Duration(rand.Intn(30)) * time.Millisecond) // Simulación de envío de email
 		duration := time.Since(start)
 		recordPerformance("RabbitMQ", "Email", duration, true)
 		fmt.Printf("Email enviado: %s (Tiempo: %v ms)\n", msg.Body, duration.Milliseconds())
@@ -265,7 +265,7 @@ func consumeFromRabbitAndCreateLog() {
 
 	for msg := range msgs {
 		start := time.Now()
-		time.Sleep(time.Duration(rand.Intn(50)) * time.Millisecond) // Simulación de creación de log
+		time.Sleep(time.Duration(rand.Intn(10)) * time.Millisecond) // Simulación de creación de log
 		duration := time.Since(start)
 		recordPerformance("RabbitMQ", "Log", duration, true)
 		fmt.Printf("Log creado: %s (Tiempo: %v ms)\n", msg.Body, duration.Milliseconds())
@@ -298,14 +298,14 @@ func insertDirectToPostgres() {
 
 		// Simulación de envío de email
 		start = time.Now()
-		time.Sleep(time.Duration(rand.Intn(100)) * time.Millisecond) // simulacion tiempo random
+		time.Sleep(time.Duration(rand.Intn(30)) * time.Millisecond) // simulacion tiempo random
 		duration = time.Since(start)
 		recordPerformance("Directo", "Email", duration, true)
 		fmt.Printf("Email enviado: %s (Tiempo: %v ms)\n", message)
 
 		// Simulación de creación de log
 		start = time.Now()
-		time.Sleep(time.Duration(rand.Intn(50)) * time.Millisecond) // simulacion tiempo random
+		time.Sleep(time.Duration(rand.Intn(10)) * time.Millisecond) // simulacion tiempo random
 		duration = time.Since(start)
 		recordPerformance("Directo", "Log", duration, true)
 		fmt.Printf("Log creado: %s (Tiempo: %v ms)\n", message)
