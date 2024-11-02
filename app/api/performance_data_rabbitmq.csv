@@ -1,1794 +1,1001 @@
-Metodo,Tarea,Tiempo (ms),Resultado
-RabbitMQ,Process,6.00,Exitoso
-RabbitMQ,Process,1.00,Exitoso
-RabbitMQ,Email,19.00,Exitoso
-RabbitMQ,Process,8.00,Exitoso
-RabbitMQ,Log,42.00,Exitoso
-RabbitMQ,Log,32.00,Exitoso
-RabbitMQ,Email,68.00,Exitoso
-RabbitMQ,Process,8.00,Exitoso
-RabbitMQ,Insert,50.00,Exitoso
-RabbitMQ,Log,45.00,Exitoso
-RabbitMQ,Insert,9.00,Exitoso
-RabbitMQ,Insert,4.00,Exitoso
-RabbitMQ,Insert,3.00,Exitoso
-RabbitMQ,Process,0.00,Exitoso
-RabbitMQ,Log,25.00,Exitoso
-RabbitMQ,Email,65.00,Exitoso
-RabbitMQ,Insert,8.00,Exitoso
-RabbitMQ,Email,9.00,Exitoso
-RabbitMQ,Log,16.00,Exitoso
-RabbitMQ,Process,4.00,Exitoso
-RabbitMQ,Insert,4.00,Exitoso
-RabbitMQ,Email,43.00,Exitoso
-RabbitMQ,Log,13.00,Exitoso
-RabbitMQ,Insert,1.00,Exitoso
-RabbitMQ,Process,10.00,Exitoso
-RabbitMQ,Log,29.00,Exitoso
-RabbitMQ,Email,91.00,Exitoso
-RabbitMQ,Process,5.00,Exitoso
-RabbitMQ,Insert,4.00,Exitoso
-RabbitMQ,Log,12.00,Exitoso
-RabbitMQ,Process,3.00,Exitoso
-RabbitMQ,Log,0.00,Exitoso
-RabbitMQ,Insert,8.00,Exitoso
-RabbitMQ,Email,87.00,Exitoso
-RabbitMQ,Process,8.00,Exitoso
-RabbitMQ,Insert,12.00,Exitoso
-RabbitMQ,Log,33.00,Exitoso
-RabbitMQ,Email,97.00,Exitoso
-RabbitMQ,Process,11.00,Exitoso
-RabbitMQ,Insert,12.00,Exitoso
-RabbitMQ,Log,26.00,Exitoso
-RabbitMQ,Email,43.00,Exitoso
-RabbitMQ,Process,9.00,Exitoso
-RabbitMQ,Insert,7.00,Exitoso
-RabbitMQ,Email,30.00,Exitoso
-RabbitMQ,Log,19.00,Exitoso
-RabbitMQ,Email,8.00,Exitoso
-RabbitMQ,Process,7.00,Exitoso
-RabbitMQ,Insert,8.00,Exitoso
-RabbitMQ,Log,44.00,Exitoso
-RabbitMQ,Email,88.00,Exitoso
-RabbitMQ,Process,10.00,Exitoso
-RabbitMQ,Insert,11.00,Exitoso
-RabbitMQ,Log,19.00,Exitoso
-RabbitMQ,Process,6.00,Exitoso
-RabbitMQ,Insert,5.00,Exitoso
-RabbitMQ,Email,99.00,Exitoso
-RabbitMQ,Log,44.00,Exitoso
-RabbitMQ,Process,5.00,Exitoso
-RabbitMQ,Log,3.00,Exitoso
-RabbitMQ,Insert,7.00,Exitoso
-RabbitMQ,Email,70.00,Exitoso
-RabbitMQ,Process,5.00,Exitoso
-RabbitMQ,Insert,4.00,Exitoso
-RabbitMQ,Email,19.00,Exitoso
-RabbitMQ,Log,22.00,Exitoso
-RabbitMQ,Process,11.00,Exitoso
-RabbitMQ,Insert,3.00,Exitoso
-RabbitMQ,Email,57.00,Exitoso
-RabbitMQ,Log,48.00,Exitoso
-RabbitMQ,Process,3.00,Exitoso
-RabbitMQ,Insert,12.00,Exitoso
-RabbitMQ,Log,26.00,Exitoso
-RabbitMQ,Email,99.00,Exitoso
-RabbitMQ,Process,7.00,Exitoso
-RabbitMQ,Log,1.00,Exitoso
-RabbitMQ,Insert,5.00,Exitoso
-RabbitMQ,Email,46.00,Exitoso
-RabbitMQ,Insert,2.00,Exitoso
-RabbitMQ,Process,7.00,Exitoso
-RabbitMQ,Log,8.00,Exitoso
-RabbitMQ,Email,28.00,Exitoso
-RabbitMQ,Email,49.00,Exitoso
-RabbitMQ,Insert,3.00,Exitoso
-RabbitMQ,Process,14.00,Exitoso
-RabbitMQ,Log,26.00,Exitoso
-RabbitMQ,Email,65.00,Exitoso
-RabbitMQ,Process,12.00,Exitoso
-RabbitMQ,Insert,8.00,Exitoso
-RabbitMQ,Log,20.00,Exitoso
-RabbitMQ,Process,7.00,Exitoso
-RabbitMQ,Insert,2.00,Exitoso
-RabbitMQ,Log,21.00,Exitoso
-RabbitMQ,Email,96.00,Exitoso
-RabbitMQ,Log,0.00,Exitoso
-RabbitMQ,Insert,3.00,Exitoso
-RabbitMQ,Process,10.00,Exitoso
-RabbitMQ,Email,35.00,Exitoso
-RabbitMQ,Email,21.00,Exitoso
-RabbitMQ,Email,15.00,Exitoso
-RabbitMQ,Process,9.00,Exitoso
-RabbitMQ,Insert,6.00,Exitoso
-RabbitMQ,Log,43.00,Exitoso
-RabbitMQ,Email,65.00,Exitoso
-RabbitMQ,Process,10.00,Exitoso
-RabbitMQ,Insert,7.00,Exitoso
-RabbitMQ,Log,21.00,Exitoso
-RabbitMQ,Insert,4.00,Exitoso
-RabbitMQ,Process,9.00,Exitoso
-RabbitMQ,Email,97.00,Exitoso
-RabbitMQ,Log,46.00,Exitoso
-RabbitMQ,Process,11.00,Exitoso
-RabbitMQ,Insert,9.00,Exitoso
-RabbitMQ,Log,18.00,Exitoso
-RabbitMQ,Email,42.00,Exitoso
-RabbitMQ,Email,4.00,Exitoso
-RabbitMQ,Process,10.00,Exitoso
-RabbitMQ,Insert,8.00,Exitoso
-RabbitMQ,Log,12.00,Exitoso
-RabbitMQ,Process,5.00,Exitoso
-RabbitMQ,Insert,9.00,Exitoso
-RabbitMQ,Log,19.00,Exitoso
-RabbitMQ,Email,91.00,Exitoso
-RabbitMQ,Email,13.00,Exitoso
-RabbitMQ,Process,4.00,Exitoso
-RabbitMQ,Insert,7.00,Exitoso
-RabbitMQ,Log,7.00,Exitoso
-RabbitMQ,Email,37.00,Exitoso
-RabbitMQ,Process,1.00,Exitoso
-RabbitMQ,Insert,8.00,Exitoso
-RabbitMQ,Email,18.00,Exitoso
-RabbitMQ,Log,49.00,Exitoso
-RabbitMQ,Process,8.00,Exitoso
-RabbitMQ,Insert,9.00,Exitoso
-RabbitMQ,Log,15.00,Exitoso
-RabbitMQ,Email,18.00,Exitoso
-RabbitMQ,Insert,3.00,Exitoso
-RabbitMQ,Process,11.00,Exitoso
-RabbitMQ,Email,45.00,Exitoso
-RabbitMQ,Log,49.00,Exitoso
-RabbitMQ,Process,2.00,Exitoso
-RabbitMQ,Insert,4.00,Exitoso
-RabbitMQ,Log,22.00,Exitoso
-RabbitMQ,Email,42.00,Exitoso
-RabbitMQ,Process,13.00,Exitoso
-RabbitMQ,Insert,9.00,Exitoso
-RabbitMQ,Log,16.00,Exitoso
-RabbitMQ,Process,0.00,Exitoso
-RabbitMQ,Insert,2.00,Exitoso
-RabbitMQ,Email,80.00,Exitoso
-RabbitMQ,Email,12.00,Exitoso
-RabbitMQ,Log,44.00,Exitoso
-RabbitMQ,Process,8.00,Exitoso
-RabbitMQ,Insert,8.00,Exitoso
-RabbitMQ,Log,22.00,Exitoso
-RabbitMQ,Process,7.00,Exitoso
-RabbitMQ,Insert,5.00,Exitoso
-RabbitMQ,Email,73.00,Exitoso
-RabbitMQ,Log,30.00,Exitoso
-RabbitMQ,Log,7.00,Exitoso
-RabbitMQ,Process,10.00,Exitoso
-RabbitMQ,Insert,9.00,Exitoso
-RabbitMQ,Email,71.00,Exitoso
-RabbitMQ,Email,30.00,Exitoso
-RabbitMQ,Process,12.00,Exitoso
-RabbitMQ,Insert,10.00,Exitoso
-RabbitMQ,Log,31.00,Exitoso
-RabbitMQ,Process,10.00,Exitoso
-RabbitMQ,Email,68.00,Exitoso
-RabbitMQ,Insert,7.00,Exitoso
-RabbitMQ,Log,42.00,Exitoso
-RabbitMQ,Process,12.00,Exitoso
-RabbitMQ,Log,3.00,Exitoso
-RabbitMQ,Insert,3.00,Exitoso
-RabbitMQ,Email,97.00,Exitoso
-RabbitMQ,Process,4.00,Exitoso
-RabbitMQ,Log,1.00,Exitoso
-RabbitMQ,Insert,11.00,Exitoso
-RabbitMQ,Email,44.00,Exitoso
-RabbitMQ,Process,7.00,Exitoso
-RabbitMQ,Insert,5.00,Exitoso
-RabbitMQ,Email,49.00,Exitoso
-RabbitMQ,Log,37.00,Exitoso
-RabbitMQ,Process,5.00,Exitoso
-RabbitMQ,Insert,8.00,Exitoso
-RabbitMQ,Log,33.00,Exitoso
-RabbitMQ,Email,97.00,Exitoso
-RabbitMQ,Process,7.00,Exitoso
-RabbitMQ,Insert,4.00,Exitoso
-RabbitMQ,Log,14.00,Exitoso
-RabbitMQ,Email,28.00,Exitoso
-RabbitMQ,Email,3.00,Exitoso
-RabbitMQ,Insert,15.00,Exitoso
-RabbitMQ,Process,49.00,Exitoso
-RabbitMQ,Log,49.00,Exitoso
-RabbitMQ,Email,93.00,Exitoso
-RabbitMQ,Process,7.00,Exitoso
-RabbitMQ,Insert,5.00,Exitoso
-RabbitMQ,Log,14.00,Exitoso
-RabbitMQ,Email,29.00,Exitoso
-RabbitMQ,Process,14.00,Exitoso
-RabbitMQ,Log,15.00,Exitoso
-RabbitMQ,Insert,20.00,Exitoso
-RabbitMQ,Process,10.00,Exitoso
-RabbitMQ,Insert,12.00,Exitoso
-RabbitMQ,Email,84.00,Exitoso
-RabbitMQ,Log,41.00,Exitoso
-RabbitMQ,Process,3.00,Exitoso
-RabbitMQ,Insert,7.00,Exitoso
-RabbitMQ,Email,66.00,Exitoso
-RabbitMQ,Log,35.00,Exitoso
-RabbitMQ,Email,21.00,Exitoso
-RabbitMQ,Process,3.00,Exitoso
-RabbitMQ,Log,2.00,Exitoso
-RabbitMQ,Insert,9.00,Exitoso
-RabbitMQ,Email,42.00,Exitoso
-RabbitMQ,Process,9.00,Exitoso
-RabbitMQ,Insert,2.00,Exitoso
-RabbitMQ,Log,4.00,Exitoso
-RabbitMQ,Email,39.00,Exitoso
-RabbitMQ,Process,2.00,Exitoso
-RabbitMQ,Email,5.00,Exitoso
-RabbitMQ,Log,4.00,Exitoso
-RabbitMQ,Insert,10.00,Exitoso
-RabbitMQ,Process,7.00,Exitoso
-RabbitMQ,Insert,6.00,Exitoso
-RabbitMQ,Log,31.00,Exitoso
-RabbitMQ,Insert,4.00,Exitoso
-RabbitMQ,Process,14.00,Exitoso
-RabbitMQ,Email,78.00,Exitoso
-RabbitMQ,Log,46.00,Exitoso
-RabbitMQ,Email,42.00,Exitoso
-RabbitMQ,Process,6.00,Exitoso
-RabbitMQ,Insert,2.00,Exitoso
-RabbitMQ,Email,30.00,Exitoso
-RabbitMQ,Log,33.00,Exitoso
-RabbitMQ,Process,4.00,Exitoso
-RabbitMQ,Insert,9.00,Exitoso
-RabbitMQ,Log,36.00,Exitoso
-RabbitMQ,Process,12.00,Exitoso
-RabbitMQ,Insert,5.00,Exitoso
-RabbitMQ,Log,20.00,Exitoso
-RabbitMQ,Email,94.00,Exitoso
-RabbitMQ,Process,5.00,Exitoso
-RabbitMQ,Insert,10.00,Exitoso
-RabbitMQ,Email,47.00,Exitoso
-RabbitMQ,Email,1.00,Exitoso
-RabbitMQ,Log,39.00,Exitoso
-RabbitMQ,Process,4.00,Exitoso
-RabbitMQ,Insert,3.00,Exitoso
-RabbitMQ,Log,13.00,Exitoso
-RabbitMQ,Email,63.00,Exitoso
-RabbitMQ,Process,13.00,Exitoso
-RabbitMQ,Insert,15.00,Exitoso
-RabbitMQ,Log,17.00,Exitoso
-RabbitMQ,Email,25.00,Exitoso
-RabbitMQ,Process,8.00,Exitoso
-RabbitMQ,Insert,12.00,Exitoso
-RabbitMQ,Email,24.00,Exitoso
-RabbitMQ,Log,39.00,Exitoso
-RabbitMQ,Log,3.00,Exitoso
-RabbitMQ,Process,7.00,Exitoso
-RabbitMQ,Insert,6.00,Exitoso
-RabbitMQ,Email,50.00,Exitoso
-RabbitMQ,Process,9.00,Exitoso
-RabbitMQ,Insert,6.00,Exitoso
-RabbitMQ,Email,21.00,Exitoso
-RabbitMQ,Log,33.00,Exitoso
-RabbitMQ,Process,3.00,Exitoso
-RabbitMQ,Insert,5.00,Exitoso
-RabbitMQ,Log,24.00,Exitoso
-RabbitMQ,Email,45.00,Exitoso
-RabbitMQ,Process,8.00,Exitoso
-RabbitMQ,Insert,11.00,Exitoso
-RabbitMQ,Log,34.00,Exitoso
-RabbitMQ,Process,9.00,Exitoso
-RabbitMQ,Insert,10.00,Exitoso
-RabbitMQ,Log,32.00,Exitoso
-RabbitMQ,Email,99.00,Exitoso
-RabbitMQ,Process,4.00,Exitoso
-RabbitMQ,Insert,7.00,Exitoso
-RabbitMQ,Log,30.00,Exitoso
-RabbitMQ,Email,64.00,Exitoso
-RabbitMQ,Insert,6.00,Exitoso
-RabbitMQ,Process,12.00,Exitoso
-RabbitMQ,Log,33.00,Exitoso
-RabbitMQ,Email,39.00,Exitoso
-RabbitMQ,Process,2.00,Exitoso
-RabbitMQ,Insert,3.00,Exitoso
-RabbitMQ,Log,5.00,Exitoso
-RabbitMQ,Email,83.00,Exitoso
-RabbitMQ,Process,12.00,Exitoso
-RabbitMQ,Insert,13.00,Exitoso
-RabbitMQ,Email,27.00,Exitoso
-RabbitMQ,Email,2.00,Exitoso
-RabbitMQ,Log,37.00,Exitoso
-RabbitMQ,Process,8.00,Exitoso
-RabbitMQ,Log,4.00,Exitoso
-RabbitMQ,Insert,12.00,Exitoso
-RabbitMQ,Email,28.00,Exitoso
-RabbitMQ,Process,1.00,Exitoso
-RabbitMQ,Insert,5.00,Exitoso
-RabbitMQ,Log,9.00,Exitoso
-RabbitMQ,Email,41.00,Exitoso
-RabbitMQ,Process,4.00,Exitoso
-RabbitMQ,Insert,8.00,Exitoso
-RabbitMQ,Email,26.00,Exitoso
-RabbitMQ,Log,27.00,Exitoso
-RabbitMQ,Process,8.00,Exitoso
-RabbitMQ,Insert,4.00,Exitoso
-RabbitMQ,Log,13.00,Exitoso
-RabbitMQ,Email,31.00,Exitoso
-RabbitMQ,Process,8.00,Exitoso
-RabbitMQ,Insert,11.00,Exitoso
-RabbitMQ,Log,21.00,Exitoso
-RabbitMQ,Email,29.00,Exitoso
-RabbitMQ,Process,4.00,Exitoso
-RabbitMQ,Insert,5.00,Exitoso
-RabbitMQ,Log,39.00,Exitoso
-RabbitMQ,Process,6.00,Exitoso
-RabbitMQ,Log,5.00,Exitoso
-RabbitMQ,Email,65.00,Exitoso
-RabbitMQ,Insert,12.00,Exitoso
-RabbitMQ,Process,11.00,Exitoso
-RabbitMQ,Insert,4.00,Exitoso
-RabbitMQ,Email,63.00,Exitoso
-RabbitMQ,Log,24.00,Exitoso
-RabbitMQ,Process,12.00,Exitoso
-RabbitMQ,Log,1.00,Exitoso
-RabbitMQ,Insert,6.00,Exitoso
-RabbitMQ,Email,76.00,Exitoso
-RabbitMQ,Process,11.00,Exitoso
-RabbitMQ,Insert,5.00,Exitoso
-RabbitMQ,Log,20.00,Exitoso
-RabbitMQ,Process,2.00,Exitoso
-RabbitMQ,Email,98.00,Exitoso
-RabbitMQ,Log,8.00,Exitoso
-RabbitMQ,Insert,15.00,Exitoso
-RabbitMQ,Process,3.00,Exitoso
-RabbitMQ,Insert,4.00,Exitoso
-RabbitMQ,Email,56.00,Exitoso
-RabbitMQ,Email,9.00,Exitoso
-RabbitMQ,Log,26.00,Exitoso
-RabbitMQ,Process,10.00,Exitoso
-RabbitMQ,Insert,3.00,Exitoso
-RabbitMQ,Log,17.00,Exitoso
-RabbitMQ,Email,87.00,Exitoso
-RabbitMQ,Process,9.00,Exitoso
-RabbitMQ,Log,7.00,Exitoso
-RabbitMQ,Insert,8.00,Exitoso
-RabbitMQ,Process,14.00,Exitoso
-RabbitMQ,Email,81.00,Exitoso
-RabbitMQ,Insert,8.00,Exitoso
-RabbitMQ,Log,49.00,Exitoso
-RabbitMQ,Insert,4.00,Exitoso
-RabbitMQ,Process,15.00,Exitoso
-RabbitMQ,Email,96.00,Exitoso
-RabbitMQ,Log,42.00,Exitoso
-RabbitMQ,Process,11.00,Exitoso
-RabbitMQ,Insert,7.00,Exitoso
-RabbitMQ,Log,19.00,Exitoso
-RabbitMQ,Email,48.00,Exitoso
-RabbitMQ,Email,34.00,Exitoso
-RabbitMQ,Process,13.00,Exitoso
-RabbitMQ,Insert,11.00,Exitoso
-RabbitMQ,Log,19.00,Exitoso
-RabbitMQ,Process,8.00,Exitoso
-RabbitMQ,Insert,11.00,Exitoso
-RabbitMQ,Email,76.00,Exitoso
-RabbitMQ,Log,47.00,Exitoso
-RabbitMQ,Process,7.00,Exitoso
-RabbitMQ,Email,41.00,Exitoso
-RabbitMQ,Insert,11.00,Exitoso
-RabbitMQ,Log,19.00,Exitoso
-RabbitMQ,Process,4.00,Exitoso
-RabbitMQ,Log,15.00,Exitoso
-RabbitMQ,Insert,17.00,Exitoso
-RabbitMQ,Email,91.00,Exitoso
-RabbitMQ,Process,4.00,Exitoso
-RabbitMQ,Log,10.00,Exitoso
-RabbitMQ,Insert,13.00,Exitoso
-RabbitMQ,Email,55.00,Exitoso
-RabbitMQ,Process,9.00,Exitoso
-RabbitMQ,Insert,9.00,Exitoso
-RabbitMQ,Email,31.00,Exitoso
-RabbitMQ,Log,22.00,Exitoso
-RabbitMQ,Email,51.00,Exitoso
-RabbitMQ,Process,10.00,Exitoso
-RabbitMQ,Email,6.00,Exitoso
-RabbitMQ,Insert,10.00,Exitoso
-RabbitMQ,Log,16.00,Exitoso
-RabbitMQ,Process,14.00,Exitoso
-RabbitMQ,Insert,8.00,Exitoso
-RabbitMQ,Log,36.00,Exitoso
-RabbitMQ,Email,97.00,Exitoso
-RabbitMQ,Process,6.00,Exitoso
-RabbitMQ,Log,5.00,Exitoso
-RabbitMQ,Insert,9.00,Exitoso
-RabbitMQ,Email,47.00,Exitoso
-RabbitMQ,Insert,11.00,Exitoso
-RabbitMQ,Process,23.00,Exitoso
-RabbitMQ,Email,57.00,Exitoso
-RabbitMQ,Log,57.00,Exitoso
-RabbitMQ,Process,11.00,Exitoso
-RabbitMQ,Insert,8.00,Exitoso
-RabbitMQ,Log,9.00,Exitoso
-RabbitMQ,Email,94.00,Exitoso
-RabbitMQ,Process,4.00,Exitoso
-RabbitMQ,Insert,6.00,Exitoso
-RabbitMQ,Email,49.00,Exitoso
-RabbitMQ,Log,42.00,Exitoso
-RabbitMQ,Process,8.00,Exitoso
-RabbitMQ,Email,17.00,Exitoso
-RabbitMQ,Log,2.00,Exitoso
-RabbitMQ,Insert,12.00,Exitoso
-RabbitMQ,Email,15.00,Exitoso
-RabbitMQ,Process,8.00,Exitoso
-RabbitMQ,Insert,9.00,Exitoso
-RabbitMQ,Log,28.00,Exitoso
-RabbitMQ,Process,10.00,Exitoso
-RabbitMQ,Insert,3.00,Exitoso
-RabbitMQ,Log,7.00,Exitoso
-RabbitMQ,Email,83.00,Exitoso
-RabbitMQ,Email,4.00,Exitoso
-RabbitMQ,Process,11.00,Exitoso
-RabbitMQ,Insert,5.00,Exitoso
-RabbitMQ,Log,12.00,Exitoso
-RabbitMQ,Process,7.00,Exitoso
-RabbitMQ,Insert,10.00,Exitoso
-RabbitMQ,Email,74.00,Exitoso
-RabbitMQ,Log,44.00,Exitoso
-RabbitMQ,Process,9.00,Exitoso
-RabbitMQ,Log,1.00,Exitoso
-RabbitMQ,Insert,4.00,Exitoso
-RabbitMQ,Email,64.00,Exitoso
-RabbitMQ,Process,32.00,Exitoso
-RabbitMQ,Email,72.00,Exitoso
-RabbitMQ,Insert,24.00,Exitoso
-RabbitMQ,Log,38.00,Exitoso
-RabbitMQ,Process,9.00,Exitoso
-RabbitMQ,Email,64.00,Exitoso
-RabbitMQ,Insert,15.00,Exitoso
-RabbitMQ,Log,32.00,Exitoso
-RabbitMQ,Email,25.00,Exitoso
-RabbitMQ,Process,8.00,Exitoso
-RabbitMQ,Log,4.00,Exitoso
-RabbitMQ,Insert,6.00,Exitoso
-RabbitMQ,Email,59.00,Exitoso
-RabbitMQ,Process,9.00,Exitoso
-RabbitMQ,Insert,9.00,Exitoso
-RabbitMQ,Email,24.00,Exitoso
-RabbitMQ,Log,43.00,Exitoso
-RabbitMQ,Process,3.00,Exitoso
-RabbitMQ,Log,0.00,Exitoso
-RabbitMQ,Insert,4.00,Exitoso
-RabbitMQ,Email,13.00,Exitoso
-RabbitMQ,Process,5.00,Exitoso
-RabbitMQ,Email,7.00,Exitoso
-RabbitMQ,Log,15.00,Exitoso
-RabbitMQ,Insert,14.00,Exitoso
-RabbitMQ,Log,0.00,Exitoso
-RabbitMQ,Insert,4.00,Exitoso
-RabbitMQ,Process,11.00,Exitoso
-RabbitMQ,Process,3.00,Exitoso
-RabbitMQ,Insert,4.00,Exitoso
-RabbitMQ,Email,92.00,Exitoso
-RabbitMQ,Log,42.00,Exitoso
-RabbitMQ,Process,6.00,Exitoso
-RabbitMQ,Insert,5.00,Exitoso
-RabbitMQ,Log,40.00,Exitoso
-RabbitMQ,Email,78.00,Exitoso
-RabbitMQ,Process,13.00,Exitoso
-RabbitMQ,Insert,9.00,Exitoso
-RabbitMQ,Log,21.00,Exitoso
-RabbitMQ,Process,10.00,Exitoso
-RabbitMQ,Insert,13.00,Exitoso
-RabbitMQ,Email,91.00,Exitoso
-RabbitMQ,Log,35.00,Exitoso
-RabbitMQ,Email,19.00,Exitoso
-RabbitMQ,Process,7.00,Exitoso
-RabbitMQ,Insert,10.00,Exitoso
-RabbitMQ,Log,32.00,Exitoso
-RabbitMQ,Email,79.00,Exitoso
-RabbitMQ,Insert,4.00,Exitoso
-RabbitMQ,Process,12.00,Exitoso
-RabbitMQ,Log,30.00,Exitoso
-RabbitMQ,Process,6.00,Exitoso
-RabbitMQ,Email,64.00,Exitoso
-RabbitMQ,Insert,7.00,Exitoso
-RabbitMQ,Email,40.00,Exitoso
-RabbitMQ,Log,44.00,Exitoso
-RabbitMQ,Process,10.00,Exitoso
-RabbitMQ,Insert,7.00,Exitoso
-RabbitMQ,Log,20.00,Exitoso
-RabbitMQ,Email,72.00,Exitoso
-RabbitMQ,Process,8.00,Exitoso
-RabbitMQ,Insert,4.00,Exitoso
-RabbitMQ,Log,41.00,Exitoso
-RabbitMQ,Process,13.00,Exitoso
-RabbitMQ,Insert,11.00,Exitoso
-RabbitMQ,Log,24.00,Exitoso
-RabbitMQ,Email,91.00,Exitoso
-RabbitMQ,Email,0.00,Exitoso
-RabbitMQ,Process,12.00,Exitoso
-RabbitMQ,Insert,11.00,Exitoso
-RabbitMQ,Log,14.00,Exitoso
-RabbitMQ,Process,9.00,Exitoso
-RabbitMQ,Email,97.00,Exitoso
-RabbitMQ,Insert,4.00,Exitoso
-RabbitMQ,Log,24.00,Exitoso
-RabbitMQ,Process,7.00,Exitoso
-RabbitMQ,Insert,13.00,Exitoso
-RabbitMQ,Log,17.00,Exitoso
-RabbitMQ,Email,78.00,Exitoso
-RabbitMQ,Insert,3.00,Exitoso
-RabbitMQ,Process,11.00,Exitoso
-RabbitMQ,Log,16.00,Exitoso
-RabbitMQ,Email,65.00,Exitoso
-RabbitMQ,Process,8.00,Exitoso
-RabbitMQ,Insert,5.00,Exitoso
-RabbitMQ,Email,46.00,Exitoso
-RabbitMQ,Log,18.00,Exitoso
-RabbitMQ,Process,2.00,Exitoso
-RabbitMQ,Insert,3.00,Exitoso
-RabbitMQ,Log,36.00,Exitoso
-RabbitMQ,Email,88.00,Exitoso
-RabbitMQ,Process,6.00,Exitoso
-RabbitMQ,Insert,12.00,Exitoso
-RabbitMQ,Log,40.00,Exitoso
-RabbitMQ,Process,2.00,Exitoso
-RabbitMQ,Insert,8.00,Exitoso
-RabbitMQ,Log,13.00,Exitoso
-RabbitMQ,Email,91.00,Exitoso
-RabbitMQ,Process,10.00,Exitoso
-RabbitMQ,Insert,6.00,Exitoso
-RabbitMQ,Log,9.00,Exitoso
-RabbitMQ,Email,82.00,Exitoso
-RabbitMQ,Process,12.00,Exitoso
-RabbitMQ,Insert,9.00,Exitoso
-RabbitMQ,Log,30.00,Exitoso
-RabbitMQ,Email,43.00,Exitoso
-RabbitMQ,Email,22.00,Exitoso
-RabbitMQ,Process,12.00,Exitoso
-RabbitMQ,Insert,5.00,Exitoso
-RabbitMQ,Log,44.00,Exitoso
-RabbitMQ,Email,49.00,Exitoso
-RabbitMQ,Process,14.00,Exitoso
-RabbitMQ,Insert,7.00,Exitoso
-RabbitMQ,Log,13.00,Exitoso
-RabbitMQ,Email,69.00,Exitoso
-RabbitMQ,Process,9.00,Exitoso
-RabbitMQ,Insert,7.00,Exitoso
-RabbitMQ,Log,24.00,Exitoso
-RabbitMQ,Email,57.00,Exitoso
-RabbitMQ,Process,12.00,Exitoso
-RabbitMQ,Insert,10.00,Exitoso
-RabbitMQ,Email,40.00,Exitoso
-RabbitMQ,Log,28.00,Exitoso
-RabbitMQ,Process,4.00,Exitoso
-RabbitMQ,Log,4.00,Exitoso
-RabbitMQ,Insert,10.00,Exitoso
-RabbitMQ,Email,74.00,Exitoso
-RabbitMQ,Email,11.00,Exitoso
-RabbitMQ,Insert,2.00,Exitoso
-RabbitMQ,Process,7.00,Exitoso
-RabbitMQ,Log,7.00,Exitoso
-RabbitMQ,Email,47.00,Exitoso
-RabbitMQ,Process,1.00,Exitoso
-RabbitMQ,Insert,6.00,Exitoso
-RabbitMQ,Log,38.00,Exitoso
-RabbitMQ,Process,6.00,Exitoso
-RabbitMQ,Email,64.00,Exitoso
-RabbitMQ,Insert,10.00,Exitoso
-RabbitMQ,Log,30.00,Exitoso
-RabbitMQ,Process,5.00,Exitoso
-RabbitMQ,Insert,3.00,Exitoso
-RabbitMQ,Email,52.00,Exitoso
-RabbitMQ,Log,18.00,Exitoso
-RabbitMQ,Process,10.00,Exitoso
-RabbitMQ,Insert,5.00,Exitoso
-RabbitMQ,Email,62.00,Exitoso
-RabbitMQ,Log,33.00,Exitoso
-RabbitMQ,Email,38.00,Exitoso
-RabbitMQ,Process,10.00,Exitoso
-RabbitMQ,Email,7.00,Exitoso
-RabbitMQ,Insert,11.00,Exitoso
-RabbitMQ,Log,20.00,Exitoso
-RabbitMQ,Email,38.00,Exitoso
-RabbitMQ,Process,9.00,Exitoso
-RabbitMQ,Insert,8.00,Exitoso
-RabbitMQ,Email,12.00,Exitoso
-RabbitMQ,Log,24.00,Exitoso
-RabbitMQ,Process,13.00,Exitoso
-RabbitMQ,Email,4.00,Exitoso
-RabbitMQ,Insert,5.00,Exitoso
-RabbitMQ,Log,10.00,Exitoso
-RabbitMQ,Process,1.00,Exitoso
-RabbitMQ,Insert,11.00,Exitoso
-RabbitMQ,Log,9.00,Exitoso
-RabbitMQ,Email,30.00,Exitoso
-RabbitMQ,Process,3.00,Exitoso
-RabbitMQ,Insert,3.00,Exitoso
-RabbitMQ,Log,3.00,Exitoso
-RabbitMQ,Process,4.00,Exitoso
-RabbitMQ,Insert,3.00,Exitoso
-RabbitMQ,Email,61.00,Exitoso
-RabbitMQ,Log,29.00,Exitoso
-RabbitMQ,Email,42.00,Exitoso
-RabbitMQ,Process,5.00,Exitoso
-RabbitMQ,Insert,6.00,Exitoso
-RabbitMQ,Log,25.00,Exitoso
-RabbitMQ,Insert,3.00,Exitoso
-RabbitMQ,Process,11.00,Exitoso
-RabbitMQ,Log,27.00,Exitoso
-RabbitMQ,Email,84.00,Exitoso
-RabbitMQ,Process,9.00,Exitoso
-RabbitMQ,Insert,3.00,Exitoso
-RabbitMQ,Log,4.00,Exitoso
-RabbitMQ,Process,5.00,Exitoso
-RabbitMQ,Log,5.00,Exitoso
-RabbitMQ,Insert,7.00,Exitoso
-RabbitMQ,Email,87.00,Exitoso
-RabbitMQ,Email,5.00,Exitoso
-RabbitMQ,Process,9.00,Exitoso
-RabbitMQ,Insert,2.00,Exitoso
-RabbitMQ,Log,4.00,Exitoso
-RabbitMQ,Email,59.00,Exitoso
-RabbitMQ,Email,16.00,Exitoso
-RabbitMQ,Process,5.00,Exitoso
-RabbitMQ,Insert,8.00,Exitoso
-RabbitMQ,Log,26.00,Exitoso
-RabbitMQ,Insert,3.00,Exitoso
-RabbitMQ,Process,13.00,Exitoso
-RabbitMQ,Email,85.00,Exitoso
-RabbitMQ,Log,40.00,Exitoso
-RabbitMQ,Insert,2.00,Exitoso
-RabbitMQ,Process,11.00,Exitoso
-RabbitMQ,Log,22.00,Exitoso
-RabbitMQ,Email,90.00,Exitoso
-RabbitMQ,Insert,3.00,Exitoso
-RabbitMQ,Process,15.00,Exitoso
-RabbitMQ,Log,31.00,Exitoso
-RabbitMQ,Process,2.00,Exitoso
-RabbitMQ,Insert,2.00,Exitoso
-RabbitMQ,Log,17.00,Exitoso
-RabbitMQ,Email,92.00,Exitoso
-RabbitMQ,Process,11.00,Exitoso
-RabbitMQ,Insert,8.00,Exitoso
-RabbitMQ,Log,28.00,Exitoso
-RabbitMQ,Email,59.00,Exitoso
-RabbitMQ,Email,24.00,Exitoso
-RabbitMQ,Process,8.00,Exitoso
-RabbitMQ,Insert,2.00,Exitoso
-RabbitMQ,Log,5.00,Exitoso
-RabbitMQ,Email,40.00,Exitoso
-RabbitMQ,Email,0.00,Exitoso
-RabbitMQ,Process,9.00,Exitoso
-RabbitMQ,Insert,5.00,Exitoso
-RabbitMQ,Log,27.00,Exitoso
-RabbitMQ,Process,10.00,Exitoso
-RabbitMQ,Insert,11.00,Exitoso
-RabbitMQ,Log,30.00,Exitoso
-RabbitMQ,Email,85.00,Exitoso
-RabbitMQ,Insert,2.00,Exitoso
-RabbitMQ,Process,6.00,Exitoso
-RabbitMQ,Log,47.00,Exitoso
-RabbitMQ,Email,93.00,Exitoso
-RabbitMQ,Process,14.00,Exitoso
-RabbitMQ,Insert,4.00,Exitoso
-RabbitMQ,Email,9.00,Exitoso
-RabbitMQ,Log,39.00,Exitoso
-RabbitMQ,Email,48.00,Exitoso
-RabbitMQ,Process,10.00,Exitoso
-RabbitMQ,Insert,5.00,Exitoso
-RabbitMQ,Log,42.00,Exitoso
-RabbitMQ,Process,8.00,Exitoso
-RabbitMQ,Insert,7.00,Exitoso
-RabbitMQ,Email,95.00,Exitoso
-RabbitMQ,Log,42.00,Exitoso
-RabbitMQ,Email,4.00,Exitoso
-RabbitMQ,Process,10.00,Exitoso
-RabbitMQ,Insert,6.00,Exitoso
-RabbitMQ,Email,40.00,Exitoso
-RabbitMQ,Log,44.00,Exitoso
-RabbitMQ,Process,13.00,Exitoso
-RabbitMQ,Insert,20.00,Exitoso
-RabbitMQ,Log,21.00,Exitoso
-RabbitMQ,Email,32.00,Exitoso
-RabbitMQ,Process,12.00,Exitoso
-RabbitMQ,Insert,10.00,Exitoso
-RabbitMQ,Log,29.00,Exitoso
-RabbitMQ,Email,38.00,Exitoso
-RabbitMQ,Process,4.00,Exitoso
-RabbitMQ,Insert,13.00,Exitoso
-RabbitMQ,Log,16.00,Exitoso
-RabbitMQ,Email,52.00,Exitoso
-RabbitMQ,Process,4.00,Exitoso
-RabbitMQ,Insert,8.00,Exitoso
-RabbitMQ,Email,27.00,Exitoso
-RabbitMQ,Log,30.00,Exitoso
-RabbitMQ,Process,9.00,Exitoso
-RabbitMQ,Insert,3.00,Exitoso
-RabbitMQ,Email,10.00,Exitoso
-RabbitMQ,Log,49.00,Exitoso
-RabbitMQ,Process,7.00,Exitoso
-RabbitMQ,Insert,11.00,Exitoso
-RabbitMQ,Email,15.00,Exitoso
-RabbitMQ,Log,35.00,Exitoso
-RabbitMQ,Process,3.00,Exitoso
-RabbitMQ,Insert,4.00,Exitoso
-RabbitMQ,Log,17.00,Exitoso
-RabbitMQ,Process,2.00,Exitoso
-RabbitMQ,Insert,11.00,Exitoso
-RabbitMQ,Email,69.00,Exitoso
-RabbitMQ,Log,20.00,Exitoso
-RabbitMQ,Email,17.00,Exitoso
-RabbitMQ,Process,8.00,Exitoso
-RabbitMQ,Insert,2.00,Exitoso
-RabbitMQ,Log,36.00,Exitoso
-RabbitMQ,Email,49.00,Exitoso
-RabbitMQ,Process,2.00,Exitoso
-RabbitMQ,Insert,4.00,Exitoso
-RabbitMQ,Log,7.00,Exitoso
-RabbitMQ,Email,50.00,Exitoso
-RabbitMQ,Process,6.00,Exitoso
-RabbitMQ,Log,7.00,Exitoso
-RabbitMQ,Insert,9.00,Exitoso
-RabbitMQ,Email,52.00,Exitoso
-RabbitMQ,Process,7.00,Exitoso
-RabbitMQ,Insert,5.00,Exitoso
-RabbitMQ,Log,22.00,Exitoso
-RabbitMQ,Process,9.00,Exitoso
-RabbitMQ,Insert,10.00,Exitoso
-RabbitMQ,Email,94.00,Exitoso
-RabbitMQ,Log,44.00,Exitoso
-RabbitMQ,Process,11.00,Exitoso
-RabbitMQ,Insert,8.00,Exitoso
-RabbitMQ,Log,45.00,Exitoso
-RabbitMQ,Email,78.00,Exitoso
-RabbitMQ,Insert,2.00,Exitoso
-RabbitMQ,Process,12.00,Exitoso
-RabbitMQ,Log,34.00,Exitoso
-RabbitMQ,Email,65.00,Exitoso
-RabbitMQ,Process,6.00,Exitoso
-RabbitMQ,Insert,8.00,Exitoso
-RabbitMQ,Log,26.00,Exitoso
-RabbitMQ,Process,3.00,Exitoso
-RabbitMQ,Email,67.00,Exitoso
-RabbitMQ,Insert,12.00,Exitoso
-RabbitMQ,Log,24.00,Exitoso
-RabbitMQ,Process,10.00,Exitoso
-RabbitMQ,Insert,4.00,Exitoso
-RabbitMQ,Email,74.00,Exitoso
-RabbitMQ,Log,24.00,Exitoso
-RabbitMQ,Process,6.00,Exitoso
-RabbitMQ,Insert,9.00,Exitoso
-RabbitMQ,Log,46.00,Exitoso
-RabbitMQ,Email,75.00,Exitoso
-RabbitMQ,Process,15.00,Exitoso
-RabbitMQ,Insert,8.00,Exitoso
-RabbitMQ,Email,30.00,Exitoso
-RabbitMQ,Log,26.00,Exitoso
-RabbitMQ,Process,3.00,Exitoso
-RabbitMQ,Insert,8.00,Exitoso
-RabbitMQ,Log,13.00,Exitoso
-RabbitMQ,Email,86.00,Exitoso
-RabbitMQ,Process,1.00,Exitoso
-RabbitMQ,Insert,11.00,Exitoso
-RabbitMQ,Log,21.00,Exitoso
-RabbitMQ,Process,9.00,Exitoso
-RabbitMQ,Insert,6.00,Exitoso
-RabbitMQ,Log,13.00,Exitoso
-RabbitMQ,Email,94.00,Exitoso
-RabbitMQ,Process,7.00,Exitoso
-RabbitMQ,Insert,10.00,Exitoso
-RabbitMQ,Log,39.00,Exitoso
-RabbitMQ,Email,75.00,Exitoso
-RabbitMQ,Insert,5.00,Exitoso
-RabbitMQ,Log,6.00,Exitoso
-RabbitMQ,Process,15.00,Exitoso
-RabbitMQ,Process,3.00,Exitoso
-RabbitMQ,Email,82.00,Exitoso
-RabbitMQ,Insert,7.00,Exitoso
-RabbitMQ,Email,17.00,Exitoso
-RabbitMQ,Log,29.00,Exitoso
-RabbitMQ,Email,36.00,Exitoso
-RabbitMQ,Process,13.00,Exitoso
-RabbitMQ,Insert,7.00,Exitoso
-RabbitMQ,Log,37.00,Exitoso
-RabbitMQ,Process,4.00,Exitoso
-RabbitMQ,Insert,2.00,Exitoso
-RabbitMQ,Email,93.00,Exitoso
-RabbitMQ,Log,45.00,Exitoso
-RabbitMQ,Process,10.00,Exitoso
-RabbitMQ,Email,25.00,Exitoso
-RabbitMQ,Log,9.00,Exitoso
-RabbitMQ,Insert,13.00,Exitoso
-RabbitMQ,Process,5.00,Exitoso
-RabbitMQ,Log,2.00,Exitoso
-RabbitMQ,Insert,12.00,Exitoso
-RabbitMQ,Email,85.00,Exitoso
-RabbitMQ,Process,2.00,Exitoso
-RabbitMQ,Log,1.00,Exitoso
-RabbitMQ,Email,35.00,Exitoso
-RabbitMQ,Insert,10.00,Exitoso
-RabbitMQ,Process,4.00,Exitoso
-RabbitMQ,Insert,4.00,Exitoso
-RabbitMQ,Email,63.00,Exitoso
-RabbitMQ,Log,33.00,Exitoso
-RabbitMQ,Email,30.00,Exitoso
-RabbitMQ,Process,2.00,Exitoso
-RabbitMQ,Insert,7.00,Exitoso
-RabbitMQ,Log,17.00,Exitoso
-RabbitMQ,Process,2.00,Exitoso
-RabbitMQ,Insert,14.00,Exitoso
-RabbitMQ,Email,85.00,Exitoso
-RabbitMQ,Log,42.00,Exitoso
-RabbitMQ,Insert,2.00,Exitoso
-RabbitMQ,Process,13.00,Exitoso
-RabbitMQ,Log,33.00,Exitoso
-RabbitMQ,Process,4.00,Exitoso
-RabbitMQ,Email,93.00,Exitoso
-RabbitMQ,Insert,10.00,Exitoso
-RabbitMQ,Log,13.00,Exitoso
-RabbitMQ,Process,6.00,Exitoso
-RabbitMQ,Email,52.00,Exitoso
-RabbitMQ,Email,1.00,Exitoso
-RabbitMQ,Insert,6.00,Exitoso
-RabbitMQ,Email,14.00,Exitoso
-RabbitMQ,Log,48.00,Exitoso
-RabbitMQ,Process,2.00,Exitoso
-RabbitMQ,Log,1.00,Exitoso
-RabbitMQ,Insert,6.00,Exitoso
-RabbitMQ,Process,1.00,Exitoso
-RabbitMQ,Insert,6.00,Exitoso
-RabbitMQ,Log,7.00,Exitoso
-RabbitMQ,Email,94.00,Exitoso
-RabbitMQ,Email,12.00,Exitoso
-RabbitMQ,Process,9.00,Exitoso
-RabbitMQ,Email,31.00,Exitoso
-RabbitMQ,Insert,11.00,Exitoso
-RabbitMQ,Log,20.00,Exitoso
-RabbitMQ,Process,7.00,Exitoso
-RabbitMQ,Insert,10.00,Exitoso
-RabbitMQ,Log,34.00,Exitoso
-RabbitMQ,Email,92.00,Exitoso
-RabbitMQ,Process,10.00,Exitoso
-RabbitMQ,Log,3.00,Exitoso
-RabbitMQ,Insert,11.00,Exitoso
-RabbitMQ,Email,79.00,Exitoso
-RabbitMQ,Process,4.00,Exitoso
-RabbitMQ,Log,1.00,Exitoso
-RabbitMQ,Insert,3.00,Exitoso
-RabbitMQ,Email,51.00,Exitoso
-RabbitMQ,Process,8.00,Exitoso
-RabbitMQ,Insert,6.00,Exitoso
-RabbitMQ,Log,37.00,Exitoso
-RabbitMQ,Email,45.00,Exitoso
-RabbitMQ,Process,5.00,Exitoso
-RabbitMQ,Insert,5.00,Exitoso
-RabbitMQ,Log,21.00,Exitoso
-RabbitMQ,Process,1.00,Exitoso
-RabbitMQ,Email,70.00,Exitoso
-RabbitMQ,Email,3.00,Exitoso
-RabbitMQ,Insert,4.00,Exitoso
-RabbitMQ,Log,20.00,Exitoso
-RabbitMQ,Email,26.00,Exitoso
-RabbitMQ,Process,3.00,Exitoso
-RabbitMQ,Insert,10.00,Exitoso
-RabbitMQ,Email,38.00,Exitoso
-RabbitMQ,Log,41.00,Exitoso
-RabbitMQ,Process,14.00,Exitoso
-RabbitMQ,Insert,6.00,Exitoso
-RabbitMQ,Log,12.00,Exitoso
-RabbitMQ,Email,67.00,Exitoso
-RabbitMQ,Email,14.00,Exitoso
-RabbitMQ,Process,12.00,Exitoso
-RabbitMQ,Insert,11.00,Exitoso
-RabbitMQ,Log,47.00,Exitoso
-RabbitMQ,Process,9.00,Exitoso
-RabbitMQ,Log,9.00,Exitoso
-RabbitMQ,Insert,11.00,Exitoso
-RabbitMQ,Email,79.00,Exitoso
-RabbitMQ,Process,6.00,Exitoso
-RabbitMQ,Insert,4.00,Exitoso
-RabbitMQ,Email,61.00,Exitoso
-RabbitMQ,Log,32.00,Exitoso
-RabbitMQ,Email,11.00,Exitoso
-RabbitMQ,Process,3.00,Exitoso
-RabbitMQ,Insert,3.00,Exitoso
-RabbitMQ,Log,6.00,Exitoso
-RabbitMQ,Process,9.00,Exitoso
-RabbitMQ,Insert,7.00,Exitoso
-RabbitMQ,Email,76.00,Exitoso
-RabbitMQ,Log,33.00,Exitoso
-RabbitMQ,Process,10.00,Exitoso
-RabbitMQ,Insert,10.00,Exitoso
-RabbitMQ,Log,12.00,Exitoso
-RabbitMQ,Email,90.00,Exitoso
-RabbitMQ,Process,24.00,Exitoso
-RabbitMQ,Insert,17.00,Exitoso
-RabbitMQ,Email,58.00,Exitoso
-RabbitMQ,Log,35.00,Exitoso
-RabbitMQ,Process,2.00,Exitoso
-RabbitMQ,Email,25.00,Exitoso
-RabbitMQ,Insert,10.00,Exitoso
-RabbitMQ,Email,7.00,Exitoso
-RabbitMQ,Log,20.00,Exitoso
-RabbitMQ,Process,6.00,Exitoso
-RabbitMQ,Insert,8.00,Exitoso
-RabbitMQ,Email,12.00,Exitoso
-RabbitMQ,Log,20.00,Exitoso
-RabbitMQ,Process,12.00,Exitoso
-RabbitMQ,Insert,5.00,Exitoso
-RabbitMQ,Log,32.00,Exitoso
-RabbitMQ,Process,6.00,Exitoso
-RabbitMQ,Insert,7.00,Exitoso
-RabbitMQ,Email,97.00,Exitoso
-RabbitMQ,Log,40.00,Exitoso
-RabbitMQ,Process,4.00,Exitoso
-RabbitMQ,Insert,7.00,Exitoso
-RabbitMQ,Log,13.00,Exitoso
-RabbitMQ,Email,63.00,Exitoso
-RabbitMQ,Process,10.00,Exitoso
-RabbitMQ,Insert,8.00,Exitoso
-RabbitMQ,Email,32.00,Exitoso
-RabbitMQ,Email,18.00,Exitoso
-RabbitMQ,Log,43.00,Exitoso
-RabbitMQ,Process,3.00,Exitoso
-RabbitMQ,Insert,7.00,Exitoso
-RabbitMQ,Log,11.00,Exitoso
-RabbitMQ,Email,44.00,Exitoso
-RabbitMQ,Process,6.00,Exitoso
-RabbitMQ,Insert,8.00,Exitoso
-RabbitMQ,Log,36.00,Exitoso
-RabbitMQ,Email,55.00,Exitoso
-RabbitMQ,Process,17.00,Exitoso
-RabbitMQ,Insert,7.00,Exitoso
-RabbitMQ,Log,29.00,Exitoso
-RabbitMQ,Email,64.00,Exitoso
-RabbitMQ,Process,7.00,Exitoso
-RabbitMQ,Insert,4.00,Exitoso
-RabbitMQ,Log,37.00,Exitoso
-RabbitMQ,Process,12.00,Exitoso
-RabbitMQ,Insert,10.00,Exitoso
-RabbitMQ,Email,83.00,Exitoso
-RabbitMQ,Log,40.00,Exitoso
-RabbitMQ,Email,26.00,Exitoso
-RabbitMQ,Process,5.00,Exitoso
-RabbitMQ,Insert,14.00,Exitoso
-RabbitMQ,Email,36.00,Exitoso
-RabbitMQ,Log,39.00,Exitoso
-RabbitMQ,Insert,5.00,Exitoso
-RabbitMQ,Process,12.00,Exitoso
-RabbitMQ,Email,4.00,Exitoso
-RabbitMQ,Log,23.00,Exitoso
-RabbitMQ,Process,11.00,Exitoso
-RabbitMQ,Insert,5.00,Exitoso
-RabbitMQ,Log,25.00,Exitoso
-RabbitMQ,Email,31.00,Exitoso
-RabbitMQ,Process,6.00,Exitoso
-RabbitMQ,Log,2.00,Exitoso
-RabbitMQ,Insert,11.00,Exitoso
-RabbitMQ,Insert,3.00,Exitoso
-RabbitMQ,Process,7.00,Exitoso
-RabbitMQ,Log,5.00,Exitoso
-RabbitMQ,Email,75.00,Exitoso
-RabbitMQ,Email,0.00,Exitoso
-RabbitMQ,Process,11.00,Exitoso
-RabbitMQ,Insert,11.00,Exitoso
-RabbitMQ,Log,38.00,Exitoso
-RabbitMQ,Email,48.00,Exitoso
-RabbitMQ,Process,7.00,Exitoso
-RabbitMQ,Email,12.00,Exitoso
-RabbitMQ,Insert,15.00,Exitoso
-RabbitMQ,Log,20.00,Exitoso
-RabbitMQ,Process,5.00,Exitoso
-RabbitMQ,Insert,5.00,Exitoso
-RabbitMQ,Email,41.00,Exitoso
-RabbitMQ,Log,42.00,Exitoso
-RabbitMQ,Process,7.00,Exitoso
-RabbitMQ,Insert,10.00,Exitoso
-RabbitMQ,Log,31.00,Exitoso
-RabbitMQ,Email,55.00,Exitoso
-RabbitMQ,Insert,3.00,Exitoso
-RabbitMQ,Process,11.00,Exitoso
-RabbitMQ,Log,11.00,Exitoso
-RabbitMQ,Process,6.00,Exitoso
-RabbitMQ,Email,99.00,Exitoso
-RabbitMQ,Insert,7.00,Exitoso
-RabbitMQ,Process,5.00,Exitoso
-RabbitMQ,Log,10.00,Exitoso
-RabbitMQ,Insert,14.00,Exitoso
-RabbitMQ,Log,15.00,Exitoso
-RabbitMQ,Process,6.00,Exitoso
-RabbitMQ,Email,72.00,Exitoso
-RabbitMQ,Insert,9.00,Exitoso
-RabbitMQ,Log,21.00,Exitoso
-RabbitMQ,Email,35.00,Exitoso
-RabbitMQ,Process,1.00,Exitoso
-RabbitMQ,Insert,10.00,Exitoso
-RabbitMQ,Log,17.00,Exitoso
-RabbitMQ,Email,45.00,Exitoso
-RabbitMQ,Process,4.00,Exitoso
-RabbitMQ,Insert,6.00,Exitoso
-RabbitMQ,Log,14.00,Exitoso
-RabbitMQ,Email,44.00,Exitoso
-RabbitMQ,Process,11.00,Exitoso
-RabbitMQ,Insert,13.00,Exitoso
-RabbitMQ,Log,24.00,Exitoso
-RabbitMQ,Email,70.00,Exitoso
-RabbitMQ,Process,6.00,Exitoso
-RabbitMQ,Insert,8.00,Exitoso
-RabbitMQ,Log,3.00,Exitoso
-RabbitMQ,Email,38.00,Exitoso
-RabbitMQ,Process,8.00,Exitoso
-RabbitMQ,Insert,9.00,Exitoso
-RabbitMQ,Log,19.00,Exitoso
-RabbitMQ,Email,97.00,Exitoso
-RabbitMQ,Process,9.00,Exitoso
-RabbitMQ,Insert,8.00,Exitoso
-RabbitMQ,Log,32.00,Exitoso
-RabbitMQ,Process,6.00,Exitoso
-RabbitMQ,Email,79.00,Exitoso
-RabbitMQ,Log,8.00,Exitoso
-RabbitMQ,Insert,15.00,Exitoso
-RabbitMQ,Email,29.00,Exitoso
-RabbitMQ,Email,11.00,Exitoso
-RabbitMQ,Process,15.00,Exitoso
-RabbitMQ,Insert,10.00,Exitoso
-RabbitMQ,Log,38.00,Exitoso
-RabbitMQ,Process,22.00,Exitoso
-RabbitMQ,Log,7.00,Exitoso
-RabbitMQ,Email,90.00,Exitoso
-RabbitMQ,Insert,17.00,Exitoso
-RabbitMQ,Process,3.00,Exitoso
-RabbitMQ,Insert,12.00,Exitoso
-RabbitMQ,Log,30.00,Exitoso
-RabbitMQ,Email,84.00,Exitoso
-RabbitMQ,Email,7.00,Exitoso
-RabbitMQ,Process,10.00,Exitoso
-RabbitMQ,Insert,6.00,Exitoso
-RabbitMQ,Log,8.00,Exitoso
-RabbitMQ,Email,24.00,Exitoso
-RabbitMQ,Process,4.00,Exitoso
-RabbitMQ,Insert,9.00,Exitoso
-RabbitMQ,Log,25.00,Exitoso
-RabbitMQ,Process,8.00,Exitoso
-RabbitMQ,Log,5.00,Exitoso
-RabbitMQ,Insert,9.00,Exitoso
-RabbitMQ,Email,84.00,Exitoso
-RabbitMQ,Process,11.00,Exitoso
-RabbitMQ,Insert,8.00,Exitoso
-RabbitMQ,Log,14.00,Exitoso
-RabbitMQ,Email,75.00,Exitoso
-RabbitMQ,Process,6.00,Exitoso
-RabbitMQ,Insert,7.00,Exitoso
-RabbitMQ,Email,27.00,Exitoso
-RabbitMQ,Email,2.00,Exitoso
-RabbitMQ,Log,40.00,Exitoso
-RabbitMQ,Process,5.00,Exitoso
-RabbitMQ,Insert,3.00,Exitoso
-RabbitMQ,Email,11.00,Exitoso
-RabbitMQ,Log,37.00,Exitoso
-RabbitMQ,Process,8.00,Exitoso
-RabbitMQ,Insert,9.00,Exitoso
-RabbitMQ,Email,31.00,Exitoso
-RabbitMQ,Log,44.00,Exitoso
-RabbitMQ,Process,6.00,Exitoso
-RabbitMQ,Insert,13.00,Exitoso
-RabbitMQ,Log,35.00,Exitoso
-RabbitMQ,Process,1.00,Exitoso
-RabbitMQ,Insert,3.00,Exitoso
-RabbitMQ,Log,38.00,Exitoso
-RabbitMQ,Email,98.00,Exitoso
-RabbitMQ,Process,2.00,Exitoso
-RabbitMQ,Insert,9.00,Exitoso
-RabbitMQ,Log,38.00,Exitoso
-RabbitMQ,Email,53.00,Exitoso
-RabbitMQ,Email,2.00,Exitoso
-RabbitMQ,Process,12.00,Exitoso
-RabbitMQ,Insert,7.00,Exitoso
-RabbitMQ,Email,8.00,Exitoso
-RabbitMQ,Log,38.00,Exitoso
-RabbitMQ,Process,10.00,Exitoso
-RabbitMQ,Insert,6.00,Exitoso
-RabbitMQ,Log,23.00,Exitoso
-RabbitMQ,Process,6.00,Exitoso
-RabbitMQ,Insert,5.00,Exitoso
-RabbitMQ,Log,11.00,Exitoso
-RabbitMQ,Email,98.00,Exitoso
-RabbitMQ,Process,6.00,Exitoso
-RabbitMQ,Insert,3.00,Exitoso
-RabbitMQ,Log,6.00,Exitoso
-RabbitMQ,Email,77.00,Exitoso
-RabbitMQ,Process,8.00,Exitoso
-RabbitMQ,Insert,9.00,Exitoso
-RabbitMQ,Log,28.00,Exitoso
-RabbitMQ,Email,43.00,Exitoso
-RabbitMQ,Process,5.00,Exitoso
-RabbitMQ,Insert,4.00,Exitoso
-RabbitMQ,Email,49.00,Exitoso
-RabbitMQ,Log,46.00,Exitoso
-RabbitMQ,Process,3.00,Exitoso
-RabbitMQ,Email,33.00,Exitoso
-RabbitMQ,Insert,13.00,Exitoso
-RabbitMQ,Log,37.00,Exitoso
-RabbitMQ,Email,36.00,Exitoso
-RabbitMQ,Process,2.00,Exitoso
-RabbitMQ,Insert,3.00,Exitoso
-RabbitMQ,Log,29.00,Exitoso
-RabbitMQ,Email,51.00,Exitoso
-RabbitMQ,Process,5.00,Exitoso
-RabbitMQ,Insert,10.00,Exitoso
-RabbitMQ,Log,27.00,Exitoso
-RabbitMQ,Email,46.00,Exitoso
-RabbitMQ,Process,9.00,Exitoso
-RabbitMQ,Insert,14.00,Exitoso
-RabbitMQ,Log,36.00,Exitoso
-RabbitMQ,Process,1.00,Exitoso
-RabbitMQ,Log,8.00,Exitoso
-RabbitMQ,Insert,11.00,Exitoso
-RabbitMQ,Email,91.00,Exitoso
-RabbitMQ,Process,4.00,Exitoso
-RabbitMQ,Insert,9.00,Exitoso
-RabbitMQ,Log,37.00,Exitoso
-RabbitMQ,Process,7.00,Exitoso
-RabbitMQ,Insert,6.00,Exitoso
-RabbitMQ,Email,92.00,Exitoso
-RabbitMQ,Log,32.00,Exitoso
-RabbitMQ,Email,37.00,Exitoso
-RabbitMQ,Process,9.00,Exitoso
-RabbitMQ,Insert,11.00,Exitoso
-RabbitMQ,Log,17.00,Exitoso
-RabbitMQ,Email,69.00,Exitoso
-RabbitMQ,Process,24.00,Exitoso
-RabbitMQ,Insert,7.00,Exitoso
-RabbitMQ,Email,30.00,Exitoso
-RabbitMQ,Log,16.00,Exitoso
-RabbitMQ,Process,8.00,Exitoso
-RabbitMQ,Insert,12.00,Exitoso
-RabbitMQ,Log,25.00,Exitoso
-RabbitMQ,Email,97.00,Exitoso
-RabbitMQ,Email,2.00,Exitoso
-RabbitMQ,Process,1.00,Exitoso
-RabbitMQ,Insert,8.00,Exitoso
-RabbitMQ,Email,24.00,Exitoso
-RabbitMQ,Log,36.00,Exitoso
-RabbitMQ,Process,7.00,Exitoso
-RabbitMQ,Insert,13.00,Exitoso
-RabbitMQ,Log,20.00,Exitoso
-RabbitMQ,Process,3.00,Exitoso
-RabbitMQ,Email,58.00,Exitoso
-RabbitMQ,Insert,8.00,Exitoso
-RabbitMQ,Log,16.00,Exitoso
-RabbitMQ,Process,4.00,Exitoso
-RabbitMQ,Insert,13.00,Exitoso
-RabbitMQ,Log,16.00,Exitoso
-RabbitMQ,Email,75.00,Exitoso
-RabbitMQ,Process,8.00,Exitoso
-RabbitMQ,Insert,8.00,Exitoso
-RabbitMQ,Email,55.00,Exitoso
-RabbitMQ,Log,35.00,Exitoso
-RabbitMQ,Process,5.00,Exitoso
-RabbitMQ,Insert,11.00,Exitoso
-RabbitMQ,Email,65.00,Exitoso
-RabbitMQ,Email,13.00,Exitoso
-RabbitMQ,Log,43.00,Exitoso
-RabbitMQ,Process,6.00,Exitoso
-RabbitMQ,Insert,6.00,Exitoso
-RabbitMQ,Log,6.00,Exitoso
-RabbitMQ,Email,50.00,Exitoso
-RabbitMQ,Process,5.00,Exitoso
-RabbitMQ,Insert,11.00,Exitoso
-RabbitMQ,Email,21.00,Exitoso
-RabbitMQ,Log,25.00,Exitoso
-RabbitMQ,Process,6.00,Exitoso
-RabbitMQ,Insert,12.00,Exitoso
-RabbitMQ,Email,38.00,Exitoso
-RabbitMQ,Log,37.00,Exitoso
-RabbitMQ,Process,9.00,Exitoso
-RabbitMQ,Insert,11.00,Exitoso
-RabbitMQ,Log,46.00,Exitoso
-RabbitMQ,Process,10.00,Exitoso
-RabbitMQ,Log,6.00,Exitoso
-RabbitMQ,Insert,7.00,Exitoso
-RabbitMQ,Email,90.00,Exitoso
-RabbitMQ,Email,17.00,Exitoso
-RabbitMQ,Process,4.00,Exitoso
-RabbitMQ,Insert,14.00,Exitoso
-RabbitMQ,Email,16.00,Exitoso
-RabbitMQ,Log,14.00,Exitoso
-RabbitMQ,Process,12.00,Exitoso
-RabbitMQ,Insert,4.00,Exitoso
-RabbitMQ,Log,9.00,Exitoso
-RabbitMQ,Email,22.00,Exitoso
-RabbitMQ,Process,5.00,Exitoso
-RabbitMQ,Insert,7.00,Exitoso
-RabbitMQ,Log,19.00,Exitoso
-RabbitMQ,Process,8.00,Exitoso
-RabbitMQ,Insert,13.00,Exitoso
-RabbitMQ,Email,82.00,Exitoso
-RabbitMQ,Log,31.00,Exitoso
-RabbitMQ,Email,21.00,Exitoso
-RabbitMQ,Process,11.00,Exitoso
-RabbitMQ,Insert,9.00,Exitoso
-RabbitMQ,Log,14.00,Exitoso
-RabbitMQ,Email,57.00,Exitoso
-RabbitMQ,Process,5.00,Exitoso
-RabbitMQ,Insert,4.00,Exitoso
-RabbitMQ,Log,17.00,Exitoso
-RabbitMQ,Process,5.00,Exitoso
-RabbitMQ,Log,5.00,Exitoso
-RabbitMQ,Insert,8.00,Exitoso
-RabbitMQ,Email,67.00,Exitoso
-RabbitMQ,Process,10.00,Exitoso
-RabbitMQ,Email,63.00,Exitoso
-RabbitMQ,Insert,13.00,Exitoso
-RabbitMQ,Log,14.00,Exitoso
-RabbitMQ,Process,9.00,Exitoso
-RabbitMQ,Email,50.00,Exitoso
-RabbitMQ,Insert,3.00,Exitoso
-RabbitMQ,Log,30.00,Exitoso
-RabbitMQ,Process,8.00,Exitoso
-RabbitMQ,Insert,10.00,Exitoso
-RabbitMQ,Email,90.00,Exitoso
-RabbitMQ,Log,47.00,Exitoso
-RabbitMQ,Email,14.00,Exitoso
-RabbitMQ,Process,4.00,Exitoso
-RabbitMQ,Insert,9.00,Exitoso
-RabbitMQ,Log,12.00,Exitoso
-RabbitMQ,Email,36.00,Exitoso
-RabbitMQ,Process,4.00,Exitoso
-RabbitMQ,Insert,10.00,Exitoso
-RabbitMQ,Email,13.00,Exitoso
-RabbitMQ,Log,28.00,Exitoso
-RabbitMQ,Process,7.00,Exitoso
-RabbitMQ,Insert,10.00,Exitoso
-RabbitMQ,Log,26.00,Exitoso
-RabbitMQ,Email,33.00,Exitoso
-RabbitMQ,Process,1.00,Exitoso
-RabbitMQ,Insert,11.00,Exitoso
-RabbitMQ,Log,11.00,Exitoso
-RabbitMQ,Email,22.00,Exitoso
-RabbitMQ,Process,4.00,Exitoso
-RabbitMQ,Insert,9.00,Exitoso
-RabbitMQ,Log,45.00,Exitoso
-RabbitMQ,Process,13.00,Exitoso
-RabbitMQ,Log,6.00,Exitoso
-RabbitMQ,Insert,6.00,Exitoso
-RabbitMQ,Email,92.00,Exitoso
-RabbitMQ,Process,7.00,Exitoso
-RabbitMQ,Insert,5.00,Exitoso
-RabbitMQ,Log,11.00,Exitoso
-RabbitMQ,Email,39.00,Exitoso
-RabbitMQ,Process,7.00,Exitoso
-RabbitMQ,Insert,11.00,Exitoso
-RabbitMQ,Email,76.00,Exitoso
-RabbitMQ,Log,41.00,Exitoso
-RabbitMQ,Process,6.00,Exitoso
-RabbitMQ,Email,25.00,Exitoso
-RabbitMQ,Insert,9.00,Exitoso
-RabbitMQ,Log,28.00,Exitoso
-RabbitMQ,Email,41.00,Exitoso
-RabbitMQ,Process,2.00,Exitoso
-RabbitMQ,Insert,7.00,Exitoso
-RabbitMQ,Email,25.00,Exitoso
-RabbitMQ,Log,36.00,Exitoso
-RabbitMQ,Insert,2.00,Exitoso
-RabbitMQ,Process,12.00,Exitoso
-RabbitMQ,Log,5.00,Exitoso
-RabbitMQ,Email,56.00,Exitoso
-RabbitMQ,Process,10.00,Exitoso
-RabbitMQ,Log,9.00,Exitoso
-RabbitMQ,Insert,9.00,Exitoso
-RabbitMQ,Email,34.00,Exitoso
-RabbitMQ,Process,4.00,Exitoso
-RabbitMQ,Insert,8.00,Exitoso
-RabbitMQ,Log,10.00,Exitoso
-RabbitMQ,Email,17.00,Exitoso
-RabbitMQ,Process,4.00,Exitoso
-RabbitMQ,Insert,11.00,Exitoso
-RabbitMQ,Email,15.00,Exitoso
-RabbitMQ,Log,27.00,Exitoso
-RabbitMQ,Process,7.00,Exitoso
-RabbitMQ,Insert,4.00,Exitoso
-RabbitMQ,Log,36.00,Exitoso
-RabbitMQ,Process,8.00,Exitoso
-RabbitMQ,Insert,15.00,Exitoso
-RabbitMQ,Email,82.00,Exitoso
-RabbitMQ,Email,6.00,Exitoso
-RabbitMQ,Log,41.00,Exitoso
-RabbitMQ,Process,3.00,Exitoso
-RabbitMQ,Insert,6.00,Exitoso
-RabbitMQ,Log,40.00,Exitoso
-RabbitMQ,Process,9.00,Exitoso
-RabbitMQ,Email,57.00,Exitoso
-RabbitMQ,Insert,16.00,Exitoso
-RabbitMQ,Log,17.00,Exitoso
-RabbitMQ,Process,32.00,Exitoso
-RabbitMQ,Log,2.00,Exitoso
-RabbitMQ,Insert,10.00,Exitoso
-RabbitMQ,Email,94.00,Exitoso
-RabbitMQ,Process,12.00,Exitoso
-RabbitMQ,Insert,7.00,Exitoso
-RabbitMQ,Log,12.00,Exitoso
-RabbitMQ,Email,49.00,Exitoso
-RabbitMQ,Email,3.00,Exitoso
-RabbitMQ,Email,0.00,Exitoso
-RabbitMQ,Process,12.00,Exitoso
-RabbitMQ,Insert,7.00,Exitoso
-RabbitMQ,Log,25.00,Exitoso
-RabbitMQ,Process,4.00,Exitoso
-RabbitMQ,Insert,16.00,Exitoso
-RabbitMQ,Log,33.00,Exitoso
-RabbitMQ,Email,56.00,Exitoso
-RabbitMQ,Process,9.00,Exitoso
-RabbitMQ,Log,5.00,Exitoso
-RabbitMQ,Insert,6.00,Exitoso
-RabbitMQ,Process,10.00,Exitoso
-RabbitMQ,Email,67.00,Exitoso
-RabbitMQ,Log,5.00,Exitoso
-RabbitMQ,Insert,7.00,Exitoso
-RabbitMQ,Process,14.00,Exitoso
-RabbitMQ,Insert,9.00,Exitoso
-RabbitMQ,Log,15.00,Exitoso
-RabbitMQ,Process,6.00,Exitoso
-RabbitMQ,Insert,6.00,Exitoso
-RabbitMQ,Email,96.00,Exitoso
-RabbitMQ,Log,38.00,Exitoso
-RabbitMQ,Process,11.00,Exitoso
-RabbitMQ,Insert,3.00,Exitoso
-RabbitMQ,Log,13.00,Exitoso
-RabbitMQ,Email,97.00,Exitoso
-RabbitMQ,Process,2.00,Exitoso
-RabbitMQ,Insert,9.00,Exitoso
-RabbitMQ,Log,24.00,Exitoso
-RabbitMQ,Email,69.00,Exitoso
-RabbitMQ,Insert,5.00,Exitoso
-RabbitMQ,Process,11.00,Exitoso
-RabbitMQ,Log,17.00,Exitoso
-RabbitMQ,Email,32.00,Exitoso
-RabbitMQ,Process,6.00,Exitoso
-RabbitMQ,Insert,11.00,Exitoso
-RabbitMQ,Log,26.00,Exitoso
-RabbitMQ,Email,59.00,Exitoso
-RabbitMQ,Insert,4.00,Exitoso
-RabbitMQ,Process,14.00,Exitoso
-RabbitMQ,Log,47.00,Exitoso
-RabbitMQ,Email,86.00,Exitoso
-RabbitMQ,Process,16.00,Exitoso
-RabbitMQ,Log,4.00,Exitoso
-RabbitMQ,Insert,8.00,Exitoso
-RabbitMQ,Insert,2.00,Exitoso
-RabbitMQ,Process,7.00,Exitoso
-RabbitMQ,Email,95.00,Exitoso
-RabbitMQ,Log,37.00,Exitoso
-RabbitMQ,Process,6.00,Exitoso
-RabbitMQ,Insert,6.00,Exitoso
-RabbitMQ,Log,10.00,Exitoso
-RabbitMQ,Email,75.00,Exitoso
-RabbitMQ,Process,8.00,Exitoso
-RabbitMQ,Insert,9.00,Exitoso
-RabbitMQ,Email,23.00,Exitoso
-RabbitMQ,Log,39.00,Exitoso
-RabbitMQ,Insert,3.00,Exitoso
-RabbitMQ,Process,9.00,Exitoso
-RabbitMQ,Log,18.00,Exitoso
-RabbitMQ,Email,63.00,Exitoso
-RabbitMQ,Email,7.00,Exitoso
-RabbitMQ,Process,6.00,Exitoso
-RabbitMQ,Insert,4.00,Exitoso
-RabbitMQ,Log,28.00,Exitoso
-RabbitMQ,Email,63.00,Exitoso
-RabbitMQ,Email,14.00,Exitoso
-RabbitMQ,Process,1.00,Exitoso
-RabbitMQ,Insert,10.00,Exitoso
-RabbitMQ,Log,28.00,Exitoso
-RabbitMQ,Process,4.00,Exitoso
-RabbitMQ,Insert,9.00,Exitoso
-RabbitMQ,Email,91.00,Exitoso
-RabbitMQ,Log,33.00,Exitoso
-RabbitMQ,Process,7.00,Exitoso
-RabbitMQ,Insert,9.00,Exitoso
-RabbitMQ,Log,15.00,Exitoso
-RabbitMQ,Process,11.00,Exitoso
-RabbitMQ,Email,90.00,Exitoso
-RabbitMQ,Insert,9.00,Exitoso
-RabbitMQ,Email,34.00,Exitoso
-RabbitMQ,Log,43.00,Exitoso
-RabbitMQ,Process,9.00,Exitoso
-RabbitMQ,Insert,4.00,Exitoso
-RabbitMQ,Email,44.00,Exitoso
-RabbitMQ,Log,34.00,Exitoso
-RabbitMQ,Process,6.00,Exitoso
-RabbitMQ,Insert,9.00,Exitoso
-RabbitMQ,Log,12.00,Exitoso
-RabbitMQ,Email,85.00,Exitoso
-RabbitMQ,Process,7.00,Exitoso
-RabbitMQ,Log,6.00,Exitoso
-RabbitMQ,Insert,13.00,Exitoso
-RabbitMQ,Email,28.00,Exitoso
-RabbitMQ,Email,38.00,Exitoso
-RabbitMQ,Process,9.00,Exitoso
-RabbitMQ,Insert,7.00,Exitoso
-RabbitMQ,Log,8.00,Exitoso
-RabbitMQ,Email,27.00,Exitoso
-RabbitMQ,Email,10.00,Exitoso
-RabbitMQ,Process,2.00,Exitoso
-RabbitMQ,Insert,6.00,Exitoso
-RabbitMQ,Email,18.00,Exitoso
-RabbitMQ,Log,42.00,Exitoso
-RabbitMQ,Process,8.00,Exitoso
-RabbitMQ,Insert,3.00,Exitoso
-RabbitMQ,Log,36.00,Exitoso
-RabbitMQ,Process,11.00,Exitoso
-RabbitMQ,Insert,9.00,Exitoso
-RabbitMQ,Email,75.00,Exitoso
-RabbitMQ,Log,29.00,Exitoso
-RabbitMQ,Process,3.00,Exitoso
-RabbitMQ,Email,41.00,Exitoso
-RabbitMQ,Insert,9.00,Exitoso
-RabbitMQ,Log,20.00,Exitoso
-RabbitMQ,Process,9.00,Exitoso
-RabbitMQ,Insert,7.00,Exitoso
-RabbitMQ,Email,96.00,Exitoso
-RabbitMQ,Log,42.00,Exitoso
-RabbitMQ,Insert,2.00,Exitoso
-RabbitMQ,Process,6.00,Exitoso
-RabbitMQ,Email,44.00,Exitoso
-RabbitMQ,Log,39.00,Exitoso
-RabbitMQ,Process,6.00,Exitoso
-RabbitMQ,Insert,3.00,Exitoso
-RabbitMQ,Log,22.00,Exitoso
-RabbitMQ,Email,80.00,Exitoso
-RabbitMQ,Process,9.00,Exitoso
-RabbitMQ,Insert,12.00,Exitoso
-RabbitMQ,Email,27.00,Exitoso
-RabbitMQ,Log,37.00,Exitoso
-RabbitMQ,Email,14.00,Exitoso
-RabbitMQ,Process,7.00,Exitoso
-RabbitMQ,Log,1.00,Exitoso
-RabbitMQ,Insert,11.00,Exitoso
-RabbitMQ,Email,32.00,Exitoso
-RabbitMQ,Process,6.00,Exitoso
-RabbitMQ,Insert,9.00,Exitoso
-RabbitMQ,Log,9.00,Exitoso
-RabbitMQ,Process,6.00,Exitoso
-RabbitMQ,Insert,7.00,Exitoso
-RabbitMQ,Email,87.00,Exitoso
-RabbitMQ,Log,21.00,Exitoso
-RabbitMQ,Process,15.00,Exitoso
-RabbitMQ,Email,47.00,Exitoso
-RabbitMQ,Insert,12.00,Exitoso
-RabbitMQ,Log,45.00,Exitoso
-RabbitMQ,Process,11.00,Exitoso
-RabbitMQ,Insert,9.00,Exitoso
-RabbitMQ,Email,83.00,Exitoso
-RabbitMQ,Log,36.00,Exitoso
-RabbitMQ,Process,7.00,Exitoso
-RabbitMQ,Insert,8.00,Exitoso
-RabbitMQ,Log,28.00,Exitoso
-RabbitMQ,Process,11.00,Exitoso
-RabbitMQ,Email,99.00,Exitoso
-RabbitMQ,Insert,13.00,Exitoso
-RabbitMQ,Log,9.00,Exitoso
-RabbitMQ,Process,17.00,Exitoso
-RabbitMQ,Insert,12.00,Exitoso
-RabbitMQ,Email,100.00,Exitoso
-RabbitMQ,Log,46.00,Exitoso
-RabbitMQ,Email,32.00,Exitoso
-RabbitMQ,Process,22.00,Exitoso
-RabbitMQ,Email,6.00,Exitoso
-RabbitMQ,Insert,12.00,Exitoso
-RabbitMQ,Email,18.00,Exitoso
-RabbitMQ,Log,48.00,Exitoso
-RabbitMQ,Process,11.00,Exitoso
-RabbitMQ,Insert,11.00,Exitoso
-RabbitMQ,Log,39.00,Exitoso
-RabbitMQ,Email,42.00,Exitoso
-RabbitMQ,Process,10.00,Exitoso
-RabbitMQ,Insert,7.00,Exitoso
-RabbitMQ,Log,50.00,Exitoso
-RabbitMQ,Email,62.00,Exitoso
-RabbitMQ,Email,3.00,Exitoso
-RabbitMQ,Process,12.00,Exitoso
-RabbitMQ,Insert,6.00,Exitoso
-RabbitMQ,Log,25.00,Exitoso
-RabbitMQ,Process,2.00,Exitoso
-RabbitMQ,Insert,10.00,Exitoso
-RabbitMQ,Log,48.00,Exitoso
-RabbitMQ,Email,58.00,Exitoso
-RabbitMQ,Insert,2.00,Exitoso
-RabbitMQ,Process,11.00,Exitoso
-RabbitMQ,Email,11.00,Exitoso
-RabbitMQ,Log,41.00,Exitoso
-RabbitMQ,Process,11.00,Exitoso
-RabbitMQ,Insert,7.00,Exitoso
-RabbitMQ,Log,26.00,Exitoso
-RabbitMQ,Email,27.00,Exitoso
-RabbitMQ,Process,11.00,Exitoso
-RabbitMQ,Insert,12.00,Exitoso
-RabbitMQ,Log,6.00,Exitoso
-RabbitMQ,Process,6.00,Exitoso
-RabbitMQ,Email,69.00,Exitoso
-RabbitMQ,Insert,10.00,Exitoso
-RabbitMQ,Log,17.00,Exitoso
-RabbitMQ,Email,47.00,Exitoso
-RabbitMQ,Process,14.00,Exitoso
-RabbitMQ,Insert,12.00,Exitoso
-RabbitMQ,Log,41.00,Exitoso
-RabbitMQ,Process,6.00,Exitoso
-RabbitMQ,Insert,4.00,Exitoso
-RabbitMQ,Email,85.00,Exitoso
-RabbitMQ,Log,21.00,Exitoso
-RabbitMQ,Email,43.00,Exitoso
-RabbitMQ,Process,13.00,Exitoso
-RabbitMQ,Insert,8.00,Exitoso
-RabbitMQ,Log,14.00,Exitoso
-RabbitMQ,Log,1.00,Exitoso
-RabbitMQ,Email,55.00,Exitoso
-RabbitMQ,Process,9.00,Exitoso
-RabbitMQ,Insert,6.00,Exitoso
-RabbitMQ,Process,16.00,Exitoso
-RabbitMQ,Insert,7.00,Exitoso
-RabbitMQ,Email,89.00,Exitoso
-RabbitMQ,Email,8.00,Exitoso
-RabbitMQ,Log,37.00,Exitoso
-RabbitMQ,Process,5.00,Exitoso
-RabbitMQ,Insert,5.00,Exitoso
-RabbitMQ,Email,7.00,Exitoso
-RabbitMQ,Log,27.00,Exitoso
-RabbitMQ,Process,11.00,Exitoso
-RabbitMQ,Insert,6.00,Exitoso
-RabbitMQ,Log,38.00,Exitoso
-RabbitMQ,Email,53.00,Exitoso
-RabbitMQ,Process,10.00,Exitoso
-RabbitMQ,Insert,13.00,Exitoso
-RabbitMQ,Log,38.00,Exitoso
-RabbitMQ,Process,7.00,Exitoso
-RabbitMQ,Insert,14.00,Exitoso
-RabbitMQ,Email,89.00,Exitoso
-RabbitMQ,Log,30.00,Exitoso
-RabbitMQ,Process,16.00,Exitoso
-RabbitMQ,Insert,10.00,Exitoso
-RabbitMQ,Email,86.00,Exitoso
-RabbitMQ,Log,48.00,Exitoso
-RabbitMQ,Process,4.00,Exitoso
-RabbitMQ,Insert,8.00,Exitoso
-RabbitMQ,Log,41.00,Exitoso
-RabbitMQ,Email,64.00,Exitoso
-RabbitMQ,Log,0.00,Exitoso
-RabbitMQ,Process,9.00,Exitoso
-RabbitMQ,Insert,5.00,Exitoso
-RabbitMQ,Email,43.00,Exitoso
-RabbitMQ,Email,0.00,Exitoso
-RabbitMQ,Process,7.00,Exitoso
-RabbitMQ,Insert,3.00,Exitoso
-RabbitMQ,Log,32.00,Exitoso
-RabbitMQ,Email,41.00,Exitoso
-RabbitMQ,Process,5.00,Exitoso
-RabbitMQ,Insert,11.00,Exitoso
-RabbitMQ,Log,25.00,Exitoso
-RabbitMQ,Email,35.00,Exitoso
-RabbitMQ,Process,10.00,Exitoso
-RabbitMQ,Insert,7.00,Exitoso
-RabbitMQ,Log,13.00,Exitoso
-RabbitMQ,Process,6.00,Exitoso
-RabbitMQ,Insert,6.00,Exitoso
-RabbitMQ,Log,25.00,Exitoso
-RabbitMQ,Email,99.00,Exitoso
-RabbitMQ,Process,12.00,Exitoso
-RabbitMQ,Insert,11.00,Exitoso
-RabbitMQ,Log,39.00,Exitoso
-RabbitMQ,Process,6.00,Exitoso
-RabbitMQ,Insert,8.00,Exitoso
-RabbitMQ,Email,95.00,Exitoso
-RabbitMQ,Log,24.00,Exitoso
-RabbitMQ,Process,4.00,Exitoso
-RabbitMQ,Email,52.00,Exitoso
-RabbitMQ,Insert,13.00,Exitoso
-RabbitMQ,Log,36.00,Exitoso
-RabbitMQ,Process,2.00,Exitoso
-RabbitMQ,Insert,5.00,Exitoso
-RabbitMQ,Email,55.00,Exitoso
-RabbitMQ,Log,42.00,Exitoso
-RabbitMQ,Process,2.00,Exitoso
-RabbitMQ,Insert,5.00,Exitoso
-RabbitMQ,Email,86.00,Exitoso
-RabbitMQ,Log,49.00,Exitoso
-RabbitMQ,Process,5.00,Exitoso
-RabbitMQ,Email,11.00,Exitoso
-RabbitMQ,Insert,12.00,Exitoso
-RabbitMQ,Email,10.00,Exitoso
-RabbitMQ,Log,48.00,Exitoso
-RabbitMQ,Process,8.00,Exitoso
-RabbitMQ,Insert,6.00,Exitoso
-RabbitMQ,Log,36.00,Exitoso
-RabbitMQ,Email,84.00,Exitoso
-RabbitMQ,Process,9.00,Exitoso
-RabbitMQ,Email,19.00,Exitoso
-RabbitMQ,Insert,8.00,Exitoso
-RabbitMQ,Email,22.00,Exitoso
-RabbitMQ,Log,35.00,Exitoso
-RabbitMQ,Insert,6.00,Exitoso
-RabbitMQ,Process,9.00,Exitoso
-RabbitMQ,Log,36.00,Exitoso
-RabbitMQ,Process,9.00,Exitoso
-RabbitMQ,Insert,6.00,Exitoso
-RabbitMQ,Log,21.00,Exitoso
-RabbitMQ,Email,95.00,Exitoso
-RabbitMQ,Email,16.00,Exitoso
-RabbitMQ,Process,10.00,Exitoso
-RabbitMQ,Insert,7.00,Exitoso
-RabbitMQ,Log,21.00,Exitoso
-RabbitMQ,Email,46.00,Exitoso
-RabbitMQ,Process,6.00,Exitoso
-RabbitMQ,Insert,8.00,Exitoso
-RabbitMQ,Email,18.00,Exitoso
-RabbitMQ,Log,28.00,Exitoso
-RabbitMQ,Process,8.00,Exitoso
-RabbitMQ,Log,6.00,Exitoso
-RabbitMQ,Insert,10.00,Exitoso
-RabbitMQ,Process,10.00,Exitoso
-RabbitMQ,Insert,7.00,Exitoso
-RabbitMQ,Email,78.00,Exitoso
-RabbitMQ,Log,46.00,Exitoso
-RabbitMQ,Process,4.00,Exitoso
-RabbitMQ,Insert,7.00,Exitoso
-RabbitMQ,Email,64.00,Exitoso
-RabbitMQ,Log,41.00,Exitoso
-RabbitMQ,Process,9.00,Exitoso
-RabbitMQ,Log,4.00,Exitoso
-RabbitMQ,Insert,4.00,Exitoso
-RabbitMQ,Process,5.00,Exitoso
-RabbitMQ,Email,93.00,Exitoso
-RabbitMQ,Insert,7.00,Exitoso
-RabbitMQ,Log,14.00,Exitoso
-RabbitMQ,Email,42.00,Exitoso
-RabbitMQ,Process,6.00,Exitoso
-RabbitMQ,Insert,6.00,Exitoso
-RabbitMQ,Log,25.00,Exitoso
-RabbitMQ,Process,5.00,Exitoso
-RabbitMQ,Email,68.00,Exitoso
-RabbitMQ,Insert,14.00,Exitoso
-RabbitMQ,Log,46.00,Exitoso
-RabbitMQ,Process,4.00,Exitoso
-RabbitMQ,Insert,9.00,Exitoso
-RabbitMQ,Email,67.00,Exitoso
-RabbitMQ,Log,34.00,Exitoso
-RabbitMQ,Process,3.00,Exitoso
-RabbitMQ,Insert,16.00,Exitoso
-RabbitMQ,Email,70.00,Exitoso
-RabbitMQ,Log,34.00,Exitoso
-RabbitMQ,Process,2.00,Exitoso
-RabbitMQ,Insert,4.00,Exitoso
-RabbitMQ,Log,18.00,Exitoso
-RabbitMQ,Process,2.00,Exitoso
-RabbitMQ,Insert,4.00,Exitoso
-RabbitMQ,Email,85.00,Exitoso
-RabbitMQ,Log,25.00,Exitoso
-RabbitMQ,Process,5.00,Exitoso
-RabbitMQ,Email,47.00,Exitoso
-RabbitMQ,Insert,12.00,Exitoso
-RabbitMQ,Log,27.00,Exitoso
-RabbitMQ,Process,7.00,Exitoso
-RabbitMQ,Email,53.00,Exitoso
-RabbitMQ,Insert,12.00,Exitoso
-RabbitMQ,Log,40.00,Exitoso
-RabbitMQ,Email,43.00,Exitoso
-RabbitMQ,Process,10.00,Exitoso
-RabbitMQ,Insert,7.00,Exitoso
-RabbitMQ,Email,27.00,Exitoso
-RabbitMQ,Email,19.00,Exitoso
-RabbitMQ,Log,49.00,Exitoso
-RabbitMQ,Process,2.00,Exitoso
-RabbitMQ,Insert,2.00,Exitoso
-RabbitMQ,Email,49.00,Exitoso
-RabbitMQ,Log,37.00,Exitoso
-RabbitMQ,Process,9.00,Exitoso
-RabbitMQ,Insert,10.00,Exitoso
-RabbitMQ,Email,36.00,Exitoso
-RabbitMQ,Log,42.00,Exitoso
-RabbitMQ,Process,1.00,Exitoso
-RabbitMQ,Insert,6.00,Exitoso
-RabbitMQ,Log,32.00,Exitoso
-RabbitMQ,Email,96.00,Exitoso
-RabbitMQ,Insert,3.00,Exitoso
-RabbitMQ,Process,11.00,Exitoso
-RabbitMQ,Email,22.00,Exitoso
-RabbitMQ,Email,17.00,Exitoso
-RabbitMQ,Log,46.00,Exitoso
-RabbitMQ,Process,5.00,Exitoso
-RabbitMQ,Insert,5.00,Exitoso
-RabbitMQ,Log,15.00,Exitoso
-RabbitMQ,Email,22.00,Exitoso
-RabbitMQ,Process,10.00,Exitoso
-RabbitMQ,Insert,14.00,Exitoso
-RabbitMQ,Log,43.00,Exitoso
-RabbitMQ,Email,56.00,Exitoso
-RabbitMQ,Process,10.00,Exitoso
-RabbitMQ,Insert,11.00,Exitoso
-RabbitMQ,Log,46.00,Exitoso
-RabbitMQ,Process,5.00,Exitoso
-RabbitMQ,Insert,9.00,Exitoso
-RabbitMQ,Email,71.00,Exitoso
-RabbitMQ,Email,13.00,Exitoso
-RabbitMQ,Log,35.00,Exitoso
-RabbitMQ,Process,4.00,Exitoso
-RabbitMQ,Email,7.00,Exitoso
-RabbitMQ,Insert,11.00,Exitoso
-RabbitMQ,Log,24.00,Exitoso
-RabbitMQ,Process,8.00,Exitoso
-RabbitMQ,Log,0.00,Exitoso
-RabbitMQ,Insert,7.00,Exitoso
-RabbitMQ,Email,68.00,Exitoso
-RabbitMQ,Insert,26.00,Exitoso
-RabbitMQ,Log,21.00,Exitoso
-RabbitMQ,Process,49.00,Exitoso
-RabbitMQ,Email,97.00,Exitoso
-RabbitMQ,Process,12.00,Exitoso
-RabbitMQ,Insert,11.00,Exitoso
-RabbitMQ,Log,32.00,Exitoso
-RabbitMQ,Email,55.00,Exitoso
-RabbitMQ,Process,8.00,Exitoso
-RabbitMQ,Insert,13.00,Exitoso
-RabbitMQ,Log,38.00,Exitoso
-RabbitMQ,Email,51.00,Exitoso
-RabbitMQ,Process,7.00,Exitoso
-RabbitMQ,Email,1.00,Exitoso
-RabbitMQ,Insert,10.00,Exitoso
-RabbitMQ,Log,44.00,Exitoso
-RabbitMQ,Process,7.00,Exitoso
-RabbitMQ,Insert,8.00,Exitoso
-RabbitMQ,Log,29.00,Exitoso
-RabbitMQ,Email,55.00,Exitoso
-RabbitMQ,Process,3.00,Exitoso
-RabbitMQ,Log,4.00,Exitoso
-RabbitMQ,Insert,6.00,Exitoso
-RabbitMQ,Process,15.00,Exitoso
-RabbitMQ,Insert,7.00,Exitoso
-RabbitMQ,Log,15.00,Exitoso
-RabbitMQ,Email,88.00,Exitoso
-RabbitMQ,Process,6.00,Exitoso
-RabbitMQ,Insert,4.00,Exitoso
-RabbitMQ,Log,7.00,Exitoso
-RabbitMQ,Email,71.00,Exitoso
-RabbitMQ,Process,10.00,Exitoso
-RabbitMQ,Insert,15.00,Exitoso
-RabbitMQ,Email,34.00,Exitoso
-RabbitMQ,Log,37.00,Exitoso
-RabbitMQ,Process,10.00,Exitoso
-RabbitMQ,Log,9.00,Exitoso
-RabbitMQ,Insert,12.00,Exitoso
-RabbitMQ,Email,91.00,Exitoso
-RabbitMQ,Insert,2.00,Exitoso
-RabbitMQ,Process,8.00,Exitoso
-RabbitMQ,Log,40.00,Exitoso
-RabbitMQ,Email,69.00,Exitoso
-RabbitMQ,Process,9.00,Exitoso
-RabbitMQ,Insert,5.00,Exitoso
-RabbitMQ,Log,39.00,Exitoso
-RabbitMQ,Process,10.00,Exitoso
-RabbitMQ,Insert,7.00,Exitoso
-RabbitMQ,Log,19.00,Exitoso
-RabbitMQ,Email,86.00,Exitoso
-RabbitMQ,Process,9.00,Exitoso
-RabbitMQ,Insert,6.00,Exitoso
-RabbitMQ,Log,18.00,Exitoso
-RabbitMQ,Email,72.00,Exitoso
-RabbitMQ,Process,12.00,Exitoso
-RabbitMQ,Log,4.00,Exitoso
-RabbitMQ,Insert,7.00,Exitoso
-RabbitMQ,Email,92.00,Exitoso
-RabbitMQ,Log,0.00,Exitoso
-RabbitMQ,Process,13.00,Exitoso
-RabbitMQ,Email,1.00,Exitoso
-RabbitMQ,Insert,7.00,Exitoso
-RabbitMQ,Process,3.00,Exitoso
-RabbitMQ,Insert,4.00,Exitoso
-RabbitMQ,Log,19.00,Exitoso
-RabbitMQ,Email,88.00,Exitoso
-RabbitMQ,Process,4.00,Exitoso
-RabbitMQ,Email,22.00,Exitoso
-RabbitMQ,Insert,7.00,Exitoso
-RabbitMQ,Log,43.00,Exitoso
-RabbitMQ,Process,5.00,Exitoso
-RabbitMQ,Log,7.00,Exitoso
-RabbitMQ,Insert,9.00,Exitoso
-RabbitMQ,Email,85.00,Exitoso
-RabbitMQ,Process,6.00,Exitoso
-RabbitMQ,Insert,10.00,Exitoso
-RabbitMQ,Log,19.00,Exitoso
+Metodo,Consulta,Tiempo (ms),Resultado,Datos,Timestamp
+RabbitMQ,SELECT COUNT(*) FROM customer;,13.00,Exitoso,599,2024-10-30T09:34:05-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:05-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,2.00,Exitoso,599,2024-10-30T09:34:05-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,2.00,Exitoso,599,2024-10-30T09:34:05-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:05-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:05-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:05-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:05-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,2.00,Exitoso,599,2024-10-30T09:34:05-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,2.00,Exitoso,599,2024-10-30T09:34:05-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:05-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:05-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,2.00,Exitoso,599,2024-10-30T09:34:05-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:05-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:05-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,2.00,Exitoso,599,2024-10-30T09:34:05-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:05-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:05-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:05-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:05-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:05-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,2.00,Exitoso,599,2024-10-30T09:34:05-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,2.00,Exitoso,599,2024-10-30T09:34:05-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:05-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:05-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,3.00,Exitoso,599,2024-10-30T09:34:05-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:05-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,3.00,Exitoso,599,2024-10-30T09:34:05-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:05-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:05-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:05-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:05-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:05-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,2.00,Exitoso,599,2024-10-30T09:34:05-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,3.00,Exitoso,599,2024-10-30T09:34:05-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,5.00,Exitoso,599,2024-10-30T09:34:05-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,5.00,Exitoso,599,2024-10-30T09:34:05-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,2.00,Exitoso,599,2024-10-30T09:34:05-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,2.00,Exitoso,599,2024-10-30T09:34:05-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:05-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:05-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:05-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:05-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,2.00,Exitoso,599,2024-10-30T09:34:05-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:05-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,8.00,Exitoso,599,2024-10-30T09:34:05-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:05-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:05-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:05-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:05-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:05-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:05-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:05-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:06-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,2.00,Exitoso,599,2024-10-30T09:34:06-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,2.00,Exitoso,599,2024-10-30T09:34:06-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:06-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:06-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:06-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:06-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:06-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:06-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:06-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:06-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:06-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,3.00,Exitoso,599,2024-10-30T09:34:06-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,3.00,Exitoso,599,2024-10-30T09:34:06-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:06-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:06-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,2.00,Exitoso,599,2024-10-30T09:34:06-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:06-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:06-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,2.00,Exitoso,599,2024-10-30T09:34:06-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:06-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:06-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,4.00,Exitoso,599,2024-10-30T09:34:06-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:06-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:06-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,4.00,Exitoso,599,2024-10-30T09:34:06-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:06-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:06-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,4.00,Exitoso,599,2024-10-30T09:34:06-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:06-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:06-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:06-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:06-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:06-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,3.00,Exitoso,599,2024-10-30T09:34:06-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:06-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,2.00,Exitoso,599,2024-10-30T09:34:06-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:06-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:06-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:06-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,2.00,Exitoso,599,2024-10-30T09:34:06-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:06-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:06-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:06-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:06-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:06-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:06-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:06-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:06-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:06-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:06-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,3.00,Exitoso,599,2024-10-30T09:34:06-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:06-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:06-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:06-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:06-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:06-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,5.00,Exitoso,599,2024-10-30T09:34:06-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:06-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:06-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,5.00,Exitoso,599,2024-10-30T09:34:06-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,4.00,Exitoso,599,2024-10-30T09:34:06-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,2.00,Exitoso,599,2024-10-30T09:34:06-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,5.00,Exitoso,599,2024-10-30T09:34:06-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,2.00,Exitoso,599,2024-10-30T09:34:06-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,2.00,Exitoso,599,2024-10-30T09:34:06-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:06-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,2.00,Exitoso,599,2024-10-30T09:34:06-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:06-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,4.00,Exitoso,599,2024-10-30T09:34:06-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,2.00,Exitoso,599,2024-10-30T09:34:06-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,2.00,Exitoso,599,2024-10-30T09:34:06-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,4.00,Exitoso,599,2024-10-30T09:34:06-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:06-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,3.00,Exitoso,599,2024-10-30T09:34:06-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,3.00,Exitoso,599,2024-10-30T09:34:06-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:06-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:06-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,4.00,Exitoso,599,2024-10-30T09:34:06-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,3.00,Exitoso,599,2024-10-30T09:34:06-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:06-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,4.00,Exitoso,599,2024-10-30T09:34:06-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,2.00,Exitoso,599,2024-10-30T09:34:06-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,3.00,Exitoso,599,2024-10-30T09:34:06-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,6.00,Exitoso,599,2024-10-30T09:34:06-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,4.00,Exitoso,599,2024-10-30T09:34:06-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,2.00,Exitoso,599,2024-10-30T09:34:06-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,2.00,Exitoso,599,2024-10-30T09:34:06-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:06-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:06-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,2.00,Exitoso,599,2024-10-30T09:34:07-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:07-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:07-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,2.00,Exitoso,599,2024-10-30T09:34:07-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:07-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:07-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:07-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:07-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,2.00,Exitoso,599,2024-10-30T09:34:07-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:07-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:07-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:07-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,3.00,Exitoso,599,2024-10-30T09:34:07-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:07-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:07-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,2.00,Exitoso,599,2024-10-30T09:34:07-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:07-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:07-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:07-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:07-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:07-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:07-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:07-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,3.00,Exitoso,599,2024-10-30T09:34:07-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:07-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:07-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:07-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:07-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:07-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:07-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:07-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:07-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:07-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:07-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:07-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,2.00,Exitoso,599,2024-10-30T09:34:07-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:07-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:07-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,2.00,Exitoso,599,2024-10-30T09:34:07-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:07-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:07-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,3.00,Exitoso,599,2024-10-30T09:34:07-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:07-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:07-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,7.00,Exitoso,599,2024-10-30T09:34:07-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:07-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:07-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:07-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:07-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:07-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:07-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:07-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:07-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,4.00,Exitoso,599,2024-10-30T09:34:07-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:07-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,3.00,Exitoso,599,2024-10-30T09:34:07-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:07-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:07-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:07-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:07-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:07-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:07-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,2.00,Exitoso,599,2024-10-30T09:34:07-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:07-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:07-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:07-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,2.00,Exitoso,599,2024-10-30T09:34:07-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:07-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:07-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:07-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:07-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:07-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:07-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:07-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:07-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:07-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:07-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:07-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:07-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:07-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,3.00,Exitoso,599,2024-10-30T09:34:07-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:07-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:07-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,2.00,Exitoso,599,2024-10-30T09:34:07-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:07-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:07-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,2.00,Exitoso,599,2024-10-30T09:34:07-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:07-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:07-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:08-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:08-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:08-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,2.00,Exitoso,599,2024-10-30T09:34:08-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:08-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:08-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:08-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,2.00,Exitoso,599,2024-10-30T09:34:08-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:08-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:08-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:08-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:08-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:08-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:08-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:08-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,2.00,Exitoso,599,2024-10-30T09:34:08-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:08-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:08-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:08-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,2.00,Exitoso,599,2024-10-30T09:34:08-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:08-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:08-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,4.00,Exitoso,599,2024-10-30T09:34:08-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:08-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,2.00,Exitoso,599,2024-10-30T09:34:08-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:08-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:08-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:08-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:08-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:08-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:08-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,4.00,Exitoso,599,2024-10-30T09:34:08-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:08-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:08-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,3.00,Exitoso,599,2024-10-30T09:34:08-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:08-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:08-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,2.00,Exitoso,599,2024-10-30T09:34:08-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:08-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,2.00,Exitoso,599,2024-10-30T09:34:08-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:08-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:08-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,2.00,Exitoso,599,2024-10-30T09:34:08-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:08-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:08-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:08-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,2.00,Exitoso,599,2024-10-30T09:34:08-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:08-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:08-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:08-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:08-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:08-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:08-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:08-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,3.00,Exitoso,599,2024-10-30T09:34:08-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:08-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:08-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:08-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:08-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:08-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:08-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:08-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:08-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,2.00,Exitoso,599,2024-10-30T09:34:08-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:08-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:08-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:08-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:08-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:08-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:08-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,2.00,Exitoso,599,2024-10-30T09:34:08-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:08-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,2.00,Exitoso,599,2024-10-30T09:34:08-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:08-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:08-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:08-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,3.00,Exitoso,599,2024-10-30T09:34:08-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:08-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:08-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,2.00,Exitoso,599,2024-10-30T09:34:08-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:08-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:08-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,3.00,Exitoso,599,2024-10-30T09:34:08-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:08-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:08-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,2.00,Exitoso,599,2024-10-30T09:34:08-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:08-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:08-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,3.00,Exitoso,599,2024-10-30T09:34:08-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:09-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:09-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:09-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:09-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,2.00,Exitoso,599,2024-10-30T09:34:09-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:09-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:09-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,3.00,Exitoso,599,2024-10-30T09:34:09-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,2.00,Exitoso,599,2024-10-30T09:34:09-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:09-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:09-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:09-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:09-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:09-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,3.00,Exitoso,599,2024-10-30T09:34:09-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:09-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:09-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,3.00,Exitoso,599,2024-10-30T09:34:09-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:09-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:09-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:09-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:09-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,2.00,Exitoso,599,2024-10-30T09:34:09-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,3.00,Exitoso,599,2024-10-30T09:34:09-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:09-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:09-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:09-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:09-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:09-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:09-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:09-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:09-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:09-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:09-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:09-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:09-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,2.00,Exitoso,599,2024-10-30T09:34:09-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,3.00,Exitoso,599,2024-10-30T09:34:09-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:09-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,2.00,Exitoso,599,2024-10-30T09:34:09-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,4.00,Exitoso,599,2024-10-30T09:34:09-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:09-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,2.00,Exitoso,599,2024-10-30T09:34:09-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:09-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:09-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:09-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,2.00,Exitoso,599,2024-10-30T09:34:09-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:09-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:09-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:09-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:09-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:09-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:09-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:09-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:09-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:09-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:09-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:09-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:09-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:09-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:09-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:09-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:09-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,3.00,Exitoso,599,2024-10-30T09:34:09-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:09-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:09-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,3.00,Exitoso,599,2024-10-30T09:34:09-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:09-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,2.00,Exitoso,599,2024-10-30T09:34:09-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:09-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:09-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:09-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,2.00,Exitoso,599,2024-10-30T09:34:09-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:09-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:09-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:09-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:09-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,3.00,Exitoso,599,2024-10-30T09:34:09-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,4.00,Exitoso,599,2024-10-30T09:34:09-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:09-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:09-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,2.00,Exitoso,599,2024-10-30T09:34:09-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:09-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:09-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:09-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:09-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:09-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:09-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:09-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:10-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:10-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:10-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:10-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:10-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:10-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:10-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:10-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:10-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:10-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:10-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:10-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:10-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:10-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:10-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:10-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:10-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:10-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,3.00,Exitoso,599,2024-10-30T09:34:10-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:10-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:10-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:10-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:10-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:10-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:10-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:10-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:10-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,2.00,Exitoso,599,2024-10-30T09:34:10-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,3.00,Exitoso,599,2024-10-30T09:34:10-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,3.00,Exitoso,599,2024-10-30T09:34:10-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:10-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:10-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,2.00,Exitoso,599,2024-10-30T09:34:10-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:10-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,2.00,Exitoso,599,2024-10-30T09:34:10-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:10-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,2.00,Exitoso,599,2024-10-30T09:34:10-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,4.00,Exitoso,599,2024-10-30T09:34:10-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:10-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,2.00,Exitoso,599,2024-10-30T09:34:10-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,2.00,Exitoso,599,2024-10-30T09:34:10-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:10-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,2.00,Exitoso,599,2024-10-30T09:34:10-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:10-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:10-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:10-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,3.00,Exitoso,599,2024-10-30T09:34:10-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:10-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:10-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:10-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:10-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,2.00,Exitoso,599,2024-10-30T09:34:10-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:10-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:10-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:10-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:10-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:10-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:10-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:10-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:10-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:10-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:10-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:10-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:10-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:10-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:10-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:10-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:10-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:10-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,2.00,Exitoso,599,2024-10-30T09:34:10-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:10-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:10-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:10-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:10-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:10-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:10-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:10-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:10-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:10-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:10-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,2.00,Exitoso,599,2024-10-30T09:34:10-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:10-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:10-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:10-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:10-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:10-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,2.00,Exitoso,599,2024-10-30T09:34:10-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:11-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:11-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:11-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:11-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:11-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:11-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:11-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:11-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:11-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:11-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:11-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,2.00,Exitoso,599,2024-10-30T09:34:11-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:11-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,2.00,Exitoso,599,2024-10-30T09:34:11-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:11-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:11-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:11-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:11-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:11-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:11-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:11-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:11-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:11-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,2.00,Exitoso,599,2024-10-30T09:34:11-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:11-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:11-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:11-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:11-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:11-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:11-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:11-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:11-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:11-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:11-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:11-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:11-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:11-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,2.00,Exitoso,599,2024-10-30T09:34:11-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:11-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:11-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,2.00,Exitoso,599,2024-10-30T09:34:11-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:11-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:11-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:11-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:11-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:11-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:11-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:11-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:11-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:11-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:11-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:11-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:11-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:11-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:11-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:11-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,2.00,Exitoso,599,2024-10-30T09:34:11-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:11-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:11-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:11-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:11-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:11-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:11-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:11-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:11-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:11-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:11-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:11-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:11-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:11-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:11-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:11-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:11-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:11-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:11-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,2.00,Exitoso,599,2024-10-30T09:34:11-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:11-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:11-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:11-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:11-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:11-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:11-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:11-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:11-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:11-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:11-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:11-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,3.00,Exitoso,599,2024-10-30T09:34:11-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,4.00,Exitoso,599,2024-10-30T09:34:11-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:11-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:11-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:12-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:12-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:12-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:12-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:12-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:12-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:12-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:12-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,4.00,Exitoso,599,2024-10-30T09:34:12-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,4.00,Exitoso,599,2024-10-30T09:34:12-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,3.00,Exitoso,599,2024-10-30T09:34:12-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:12-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:12-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:12-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:12-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:12-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:12-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:12-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,4.00,Exitoso,599,2024-10-30T09:34:12-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:12-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:12-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:12-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,3.00,Exitoso,599,2024-10-30T09:34:12-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:12-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:12-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:12-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:12-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:12-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,2.00,Exitoso,599,2024-10-30T09:34:12-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,2.00,Exitoso,599,2024-10-30T09:34:12-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:12-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:12-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:12-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,3.00,Exitoso,599,2024-10-30T09:34:12-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:12-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:12-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:12-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:12-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:12-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,3.00,Exitoso,599,2024-10-30T09:34:12-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:12-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:12-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,3.00,Exitoso,599,2024-10-30T09:34:12-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:12-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:12-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:12-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:12-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:12-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:12-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:12-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,2.00,Exitoso,599,2024-10-30T09:34:12-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:12-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:12-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:12-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:12-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:12-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:12-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:12-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:12-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:12-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:12-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:12-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:12-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,2.00,Exitoso,599,2024-10-30T09:34:12-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:12-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:12-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:12-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,2.00,Exitoso,599,2024-10-30T09:34:12-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:12-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:12-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:12-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,2.00,Exitoso,599,2024-10-30T09:34:12-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:12-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:12-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:12-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,2.00,Exitoso,599,2024-10-30T09:34:12-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:12-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:12-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:12-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:12-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,16.00,Exitoso,599,2024-10-30T09:34:12-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:12-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:12-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,2.00,Exitoso,599,2024-10-30T09:34:12-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:12-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:12-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:12-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:13-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:13-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:13-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:13-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:13-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:13-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:13-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:13-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:13-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:13-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:13-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:13-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:13-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,2.00,Exitoso,599,2024-10-30T09:34:13-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:13-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:13-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:13-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:13-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:13-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,2.00,Exitoso,599,2024-10-30T09:34:13-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:13-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:13-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,2.00,Exitoso,599,2024-10-30T09:34:13-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:13-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:13-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:13-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:13-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:13-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:13-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:13-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:13-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:13-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:13-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:13-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:13-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:13-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:13-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:13-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:13-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:13-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,3.00,Exitoso,599,2024-10-30T09:34:13-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:13-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:13-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:13-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:13-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:13-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:13-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:13-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:13-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:13-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:13-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:13-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,2.00,Exitoso,599,2024-10-30T09:34:13-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:13-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,2.00,Exitoso,599,2024-10-30T09:34:13-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:13-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:13-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:13-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:13-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,2.00,Exitoso,599,2024-10-30T09:34:13-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:13-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:13-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:13-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:13-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,2.00,Exitoso,599,2024-10-30T09:34:13-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,4.00,Exitoso,599,2024-10-30T09:34:13-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:13-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,2.00,Exitoso,599,2024-10-30T09:34:13-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:13-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:13-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,2.00,Exitoso,599,2024-10-30T09:34:13-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:13-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,2.00,Exitoso,599,2024-10-30T09:34:13-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,2.00,Exitoso,599,2024-10-30T09:34:13-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:13-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:13-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,2.00,Exitoso,599,2024-10-30T09:34:13-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:13-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:13-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:13-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:13-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:13-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:13-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:13-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:13-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,2.00,Exitoso,599,2024-10-30T09:34:13-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:13-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:14-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,3.00,Exitoso,599,2024-10-30T09:34:14-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:14-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,3.00,Exitoso,599,2024-10-30T09:34:14-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,2.00,Exitoso,599,2024-10-30T09:34:14-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:14-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:14-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:14-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:14-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:14-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:14-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:14-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:14-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:14-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:14-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:14-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:14-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,2.00,Exitoso,599,2024-10-30T09:34:14-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:14-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,3.00,Exitoso,599,2024-10-30T09:34:14-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:14-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:14-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:14-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:14-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:14-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,2.00,Exitoso,599,2024-10-30T09:34:14-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:14-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:14-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,2.00,Exitoso,599,2024-10-30T09:34:14-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:14-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:14-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,3.00,Exitoso,599,2024-10-30T09:34:14-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,3.00,Exitoso,599,2024-10-30T09:34:14-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:14-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,2.00,Exitoso,599,2024-10-30T09:34:14-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:14-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:14-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:14-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:14-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:14-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,4.00,Exitoso,599,2024-10-30T09:34:14-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:14-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:14-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:14-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:14-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:14-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,2.00,Exitoso,599,2024-10-30T09:34:14-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:14-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:14-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:14-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:14-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,3.00,Exitoso,599,2024-10-30T09:34:14-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:14-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:14-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:14-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:14-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,3.00,Exitoso,599,2024-10-30T09:34:14-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:14-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,4.00,Exitoso,599,2024-10-30T09:34:14-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:14-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:14-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:14-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:14-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:14-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:14-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,2.00,Exitoso,599,2024-10-30T09:34:14-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,3.00,Exitoso,599,2024-10-30T09:34:14-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:14-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:14-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:14-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:14-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:14-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:14-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:14-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:14-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:14-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:14-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:14-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:14-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:14-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:14-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:14-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:14-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:14-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:14-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:14-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,2.00,Exitoso,599,2024-10-30T09:34:14-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:14-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:14-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:15-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:15-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:15-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:15-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:15-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:15-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:15-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:15-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:15-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:15-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:15-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:15-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:15-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:15-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:15-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,3.00,Exitoso,599,2024-10-30T09:34:15-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:15-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:15-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:15-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:15-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:15-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:15-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:15-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:15-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:15-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,28.00,Exitoso,599,2024-10-30T09:34:15-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,2.00,Exitoso,599,2024-10-30T09:34:15-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,2.00,Exitoso,599,2024-10-30T09:34:15-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,4.00,Exitoso,599,2024-10-30T09:34:15-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,2.00,Exitoso,599,2024-10-30T09:34:15-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,2.00,Exitoso,599,2024-10-30T09:34:15-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:15-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:15-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:15-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:15-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,2.00,Exitoso,599,2024-10-30T09:34:15-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,3.00,Exitoso,599,2024-10-30T09:34:15-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:15-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,2.00,Exitoso,599,2024-10-30T09:34:15-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:15-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:15-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,2.00,Exitoso,599,2024-10-30T09:34:15-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:15-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,2.00,Exitoso,599,2024-10-30T09:34:15-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:15-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:15-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:15-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:15-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,2.00,Exitoso,599,2024-10-30T09:34:15-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:15-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,4.00,Exitoso,599,2024-10-30T09:34:15-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:15-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:15-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,2.00,Exitoso,599,2024-10-30T09:34:15-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:15-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:15-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:15-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,2.00,Exitoso,599,2024-10-30T09:34:15-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,2.00,Exitoso,599,2024-10-30T09:34:15-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,4.00,Exitoso,599,2024-10-30T09:34:15-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:15-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:15-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:15-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:15-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:15-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:15-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:15-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:15-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,3.00,Exitoso,599,2024-10-30T09:34:15-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:15-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:15-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,2.00,Exitoso,599,2024-10-30T09:34:15-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:15-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,2.00,Exitoso,599,2024-10-30T09:34:15-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:15-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:15-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:15-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:15-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:15-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,2.00,Exitoso,599,2024-10-30T09:34:15-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,5.00,Exitoso,599,2024-10-30T09:34:15-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:15-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,3.00,Exitoso,599,2024-10-30T09:34:15-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:15-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:15-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,2.00,Exitoso,599,2024-10-30T09:34:16-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,2.00,Exitoso,599,2024-10-30T09:34:16-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,7.00,Exitoso,599,2024-10-30T09:34:16-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,2.00,Exitoso,599,2024-10-30T09:34:16-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,2.00,Exitoso,599,2024-10-30T09:34:16-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,2.00,Exitoso,599,2024-10-30T09:34:16-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:16-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,2.00,Exitoso,599,2024-10-30T09:34:16-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:16-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:16-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:16-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:16-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,12.00,Exitoso,599,2024-10-30T09:34:16-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:16-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,8.00,Exitoso,599,2024-10-30T09:34:16-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:16-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,2.00,Exitoso,599,2024-10-30T09:34:16-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,2.00,Exitoso,599,2024-10-30T09:34:16-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,4.00,Exitoso,599,2024-10-30T09:34:16-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:16-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,2.00,Exitoso,599,2024-10-30T09:34:16-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:16-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:16-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:16-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:16-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,2.00,Exitoso,599,2024-10-30T09:34:16-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:16-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:16-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,2.00,Exitoso,599,2024-10-30T09:34:16-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:16-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:16-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:16-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:16-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,3.00,Exitoso,599,2024-10-30T09:34:16-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:16-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:16-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:16-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,2.00,Exitoso,599,2024-10-30T09:34:16-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:16-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,22.00,Exitoso,599,2024-10-30T09:34:16-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,2.00,Exitoso,599,2024-10-30T09:34:16-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:16-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,3.00,Exitoso,599,2024-10-30T09:34:16-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:16-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,2.00,Exitoso,599,2024-10-30T09:34:16-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,4.00,Exitoso,599,2024-10-30T09:34:16-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:16-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:16-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:16-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:16-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:16-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,2.00,Exitoso,599,2024-10-30T09:34:16-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:16-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:16-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:16-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:16-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:16-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,3.00,Exitoso,599,2024-10-30T09:34:16-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,0.00,Exitoso,599,2024-10-30T09:34:16-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:16-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,2.00,Exitoso,599,2024-10-30T09:34:16-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:16-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:16-03:00
+RabbitMQ,SELECT COUNT(*) FROM customer;,1.00,Exitoso,599,2024-10-30T09:34:16-03:00
