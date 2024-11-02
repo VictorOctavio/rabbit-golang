@@ -1,0 +1,40 @@
+docker exec -it postgres_with_rabbit psql -U postgres
+docker exec -it postgres_without_rabbit psql -U postgres
+
+docker cp dvdrental.tar postgres_with_rabbit:/dvdrental.tar
+docker cp dvdrental.tar postgres_without_rabbit:/dvdrental.tar
+
+docker exec -it postgres_with_rabbit bash
+docker exec -it postgres_without_rabbit bash
+
+pg_restore -U postgres -d postgres /dvdrental.tar
+
+
+CREATE TABLE users (
+    id SERIAL PRIMARY KEY,
+    username VARCHAR(50) NOT NULL,
+    email VARCHAR(50) NOT NULL
+);
+
+DELETE FROM nombre_tabla;
+
+// rabbit
+go mod init demo_rabbit
+go get github.com/streadway/amqp
+
+Measure-Command { go run producer.go }
+
+
+
+CREATE TABLE messages (
+    id SERIAL PRIMARY KEY,
+    content TEXT NOT NULL,
+    created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
+);
+
+go run test_app.go -mode=directo
+go run test_app.go -mode=rabbitmq
+
+Simulación de Carga: El propósito es mostrar cómo un sistema se comporta bajo una carga mayor, con múltiples tareas que compiten por los recursos del sistema.
+Beneficio Real de RabbitMQ: RabbitMQ permite que las tareas que no requieren una respuesta inmediata (como los correos y logs) se manejen en segundo plano, lo que en sistemas de producción permite una mejor distribución de la carga.
+Visibilidad de Resultados: Agregar tiempo simulado a las tareas adicionales en el modo directo ayuda a visualizar la diferencia en rendimiento. Sin este ajuste, la diferencia podría no ser tan clara en un entorno de prueba.
